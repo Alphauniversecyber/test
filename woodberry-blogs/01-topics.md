@@ -59,19 +59,49 @@ Mix: local-intent, informational, comparison, seasonal, and service-page support
 | 39 | Raising a Bilingual Child in Sri Lanka | raising bilingual child sri lanka | Parent | Parents | 1400 |
 | 40 | Screen Time for English Learning: What's Helpful, What's Not | screen time english learning kids | Parent | Parents | 1300 |
 
-## Batch 3 (41–60) — planned next
+## Batch 3 (41–60) — Exam deep-dives, professions, travel, trending
 
-- Grade 5 Scholarship vocabulary, past paper breakdowns, Day-of-exam advice
-- O/L English Paper 1 vs Paper 2, dialogue writing, comprehension strategies
-- A/L English Literature (main subject), unseen poetry, essay structure
-- IELTS Reading strategies, Listening sections, General Training writing
-- Spoken English for specific professions (teachers, drivers, bank staff, call centres)
-- Travel English (airport, hotel check-in, asking directions)
-- Teens: motivating a teenage English learner, teenage shyness, exam anxiety
-- British vs American English: which to teach your child
-- Group vs private tuition cost-benefit
-- Using ChatGPT / AI tools to improve English
-- YouTube channels and podcasts for Sri Lankan learners
+| # | Working title | Primary keyword | Intent | Audience | Target words |
+|---|---|---|---|---|---|
+| 41 | IELTS Reading Strategies for Sri Lankan Candidates | ielts reading strategies | Informational/exam | IELTS candidates | 1500 |
+| 42 | IELTS Listening: What Sri Lankan Candidates Miss | ielts listening tips sri lanka | Informational/exam | IELTS candidates | 1400 |
+| 43 | IELTS General Training vs Academic: Which Should You Take? | ielts general training vs academic | Comparison | Migration/study candidates | 1400 |
+| 44 | O/L English Paper 1 vs Paper 2: What's in Each | ol english paper 1 vs paper 2 | Informational/exam | Gr 10–11 | 1400 |
+| 45 | O/L English Comprehension: How to Read for Marks | ol english comprehension tips | Informational/exam | Gr 10–11 | 1400 |
+| 46 | A/L English Literature: How to Read Unseen Poetry | al english literature unseen poetry | Informational/exam | A/L main English | 1400 |
+| 47 | English for Teachers in Sri Lanka: The Classroom Phrases You Need | english for teachers sri lanka | Vocabulary | Teachers | 1400 |
+| 48 | English for Bank Staff: Customer Phrases and Email Templates | english for bank staff | Vocabulary | Bank staff | 1500 |
+| 49 | English for Call Centre Agents in Sri Lanka | english for call centre agents | Vocabulary | Call centre staff | 1500 |
+| 50 | English for Tuk-Tuk Drivers Working with Tourists | english for tuk tuk drivers | Vocabulary | Drivers | 1200 |
+| 51 | Airport English: What to Say From Check-In to Boarding | airport english phrases | Vocabulary | Travellers | 1400 |
+| 52 | Hotel Check-In English (Guests and Staff) | hotel check in english | Vocabulary | Travellers, hotel staff | 1300 |
+| 53 | Asking for Directions in English | asking for directions english | Vocabulary | Travellers | 1200 |
+| 54 | Shopping in English in Sri Lanka | shopping english phrases | Vocabulary | Travellers, retail staff | 1200 |
+| 55 | English at the Doctor: Vocabulary and Example Dialogues | english at the doctor | Vocabulary | Travellers, patients | 1300 |
+| 56 | English for Teenagers: How to Keep a Teen Interested | teenage english learning | Parent | Parents of teens | 1400 |
+| 57 | British vs American English: Which Should My Child Learn? | british vs american english | Comparison | Parents | 1300 |
+| 58 | Group Class vs Private Tuition for English | group vs private english tuition | Comparison | Parents | 1300 |
+| 59 | Using ChatGPT and AI to Improve Your English | chatgpt for english learning | Trending | Learners of all ages | 1500 |
+| 60 | Best YouTube Channels for Sri Lankan English Learners | youtube for english learning | Trending | Learners | 1300 |
+
+## Batch 4 (61–80) — planned
+
+- Local SEO (Galle, Tangalle, Weligama, Hambantota, Colombo comparisons)
+- Seasonal/time-sensitive (O/L exam countdown, Scholarship countdown, IELTS before uni intake)
+- Writing (LinkedIn profile, cover letters, academic essays, blog writing in English)
+- More grammar (modal verbs, conditionals, if-clauses deep dive, gerunds vs infinitives)
+- Pronunciation (TH sound, short vowels, stress patterns)
+- Age (toddlers, teens, seniors)
+- Reading (how to choose books, reading speed)
+
+## Batch 5 (81–100) — planned
+
+- Niche career English (medical English, legal English, finance English, IT English)
+- Study abroad: specific country prep (UK, Australia, Canada)
+- Scholarships and university applications in English
+- Mental health / exam anxiety
+- Specific grammar edge cases
+- Final cluster TBD based on remaining credit
 
 ## Secondary-keyword pools (reused across posts)
 
