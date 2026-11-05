@@ -1,8 +1,8 @@
 # Woodberry Place English Academy — Master Blog Index
 
 **Last updated:** 2026-11-05
-**Total blogs:** 100
-**Total words:** ~137,000
+**Total blogs:** 112
+**Total words:** ~153,555
 **Average per blog:** ~1,370 words
 
 All drafts are SEO-ready first drafts. Each has front matter (title, meta description, slug, primary + secondary keywords, target audience, word-count target). Review the business specifics in `00-context.md` and edit anywhere marked `[VERIFY]` before publishing.
@@ -163,6 +163,18 @@ All drafts are SEO-ready first drafts. Each has front matter (title, meta descri
 | 98 | blog-98-become-english-teacher.md | How to Become an English Teacher in Sri Lanka | become english teacher sri lanka | 1500 |
 | 99 | blog-99-celta-sri-lanka.md | Becoming CELTA-Qualified in Sri Lanka | celta sri lanka | 1400 |
 | 100 | blog-100-english-starter-pack.md | The Complete Sri Lankan English Learner's Starter Pack | english starter pack sri lanka | 1500 |
+| 101 | blog-101-make-vs-do-english.md | Make vs Do in English: When to Use Which | make vs do english | 1300 |
+| 102 | blog-102-english-numbers-dates-times.md | English Numbers, Dates and Times: How to Write Them | english numbers dates times | 1200 |
+| 103 | blog-103-time-prepositions.md | Time Prepositions: At, In, On in English | time prepositions english | 1200 |
+| 104 | blog-104-how-long-to-learn-english.md | How Long Does It Take to Learn English? | how long to learn english | 1300 |
+| 105 | blog-105-sinhala-english-translation-errors.md | Sinhala-to-English Translation Errors to Avoid | sinhala english translation errors | 1300 |
+| 106 | blog-106-tamil-english-translation-errors.md | Tamil-to-English Translation Errors to Avoid | tamil english translation errors | 1300 |
+| 107 | blog-107-personal-statement-university.md | Writing a Personal Statement for University | personal statement university sri lanka | 1500 |
+| 108 | blog-108-statement-of-purpose.md | Writing a Statement of Purpose for Graduate School | statement of purpose graduate school | 1500 |
+| 109 | blog-109-describing-people-english.md | Describing People in English: Looks, Personality, Clothes | describing people english | 1300 |
+| 110 | blog-110-english-food-cooking.md | English Vocabulary for Food and Cooking | english food cooking vocabulary | 1300 |
+| 111 | blog-111-describing-places-english.md | Describing Places in English: Geography, Buildings, Nature | describing places english | 1300 |
+| 112 | blog-112-social-media-english.md | English for Social Media: Captions, Replies, Hashtags | english for social media | 1300 |
 
 ## Internal link graph (built into drafts)
 
