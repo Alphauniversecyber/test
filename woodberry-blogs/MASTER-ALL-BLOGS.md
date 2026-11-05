@@ -1,8 +1,8 @@
 # Woodberry Place — All Blogs Combined
 
-**Produced:** 2026-11-05  
-**Total blogs:** 20  
-**Total words (blogs only):** ~26,850
+**Last updated:** 2026-11-05  
+**Total blogs:** 40  
+**Total words (blogs only):** ~55,000
 
 ---
 
@@ -3178,4 +3178,4607 @@ No. Tuition supplements school English. The school's classroom time, syllabus co
 ---
 
 Not sure whether a class would actually help your child? [Contact us at Woodberry Place](https://woodberryplace.com/contact/) — we'll give you an honest answer, even if it's "your child probably doesn't need us."
+
+
+---
+
+<!-- SOURCE FILE: blog-21-present-perfect-vs-past-simple.md -->
+
+---
+title: "Present Perfect vs Past Simple: The Difference Sri Lankans Miss"
+meta_description: "A clear explanation of present perfect vs past simple for Sri Lankan English learners — when to use each, with examples and quick practice."
+slug: present-perfect-vs-past-simple
+primary_keyword: present perfect vs past simple
+secondary_keywords: [present perfect tense, past simple tense, english tenses sri lanka, grammar for o/l]
+target_audience: intermediate learners, O/L students
+word_count_target: 1400
+---
+
+# Present Perfect vs Past Simple: The Difference Sri Lankans Miss
+
+"I have gone to Galle yesterday." If you've said something like this in English, you're not alone. Most Sri Lankan learners mix up the present perfect and the past simple, and school rarely explains the difference clearly. Once you see it, though, the rule is simple and the confusion disappears.
+
+Here's the clearest explanation you'll read today, with examples pulled from everyday Sri Lankan life.
+
+## The one-line difference
+
+- **Past simple** — tells you *when* something happened.
+- **Present perfect** — tells you *that* something happened, without caring when.
+
+Past simple is attached to a time in the past: *yesterday, last week, in 2019, when I was a child*.
+
+Present perfect floats in time. The result is still true now, but you're not pinning down when it happened.
+
+## Past simple: finished action with a clear time
+
+Form: verb + -ed (regular) or the second form of irregular verbs.
+
+- I **visited** Kandy last month.
+- She **ate** rice and curry for lunch.
+- We **watched** the match yesterday.
+- They **finished** the exam at 4pm.
+
+You can always answer *when* with a past simple sentence. "When did you visit Kandy?" "Last month."
+
+If the sentence has a specific past time — *yesterday, ago, in 2020, last Sunday, when I was 10* — you need past simple. Not present perfect.
+
+- ✗ I have gone to Galle yesterday.
+- ✓ I went to Galle yesterday.
+
+## Present perfect: experience, result, or unfinished time
+
+Form: *have / has* + past participle (third form of the verb).
+
+Three common uses:
+
+### 1. Life experience (ever, never, in your life so far)
+
+- I **have been** to Sigiriya. (At some point in my life — doesn't matter when.)
+- She **has never eaten** sushi.
+- Have you ever **played** cricket?
+
+Notice: no specific time. We're talking about experience, not an event.
+
+### 2. Result still matters now
+
+- I **have lost** my keys. (Result: they're still lost right now.)
+- She **has broken** her leg. (Result: she's still in a cast.)
+- They **have moved** to Matara. (Result: they live in Matara now.)
+
+The action happened in the past; the consequence is present.
+
+### 3. Unfinished time (today, this week, this year)
+
+Time periods that include the present moment.
+
+- I **have had** three cups of tea today. (Today isn't over.)
+- She **has visited** two countries this year. (This year isn't over.)
+- We **have seen** each other twice this week. (This week isn't over.)
+
+Once the time period finishes, you switch to past simple.
+
+- I **had** three cups of tea yesterday. (Yesterday is over.)
+
+## The signal words
+
+Some words almost always go with each tense.
+
+### Past simple signals
+
+*yesterday, ago, last week/month/year, in 2019, when I was young, at 3pm, on Monday*
+
+### Present perfect signals
+
+*ever, never, already, yet, just, so far, recently, lately, since, for*
+
+- I have **just** finished my homework.
+- Have you **ever** seen a whale?
+- She hasn't called me **yet**.
+- We've lived in Matara **for** ten years.
+- They've been friends **since** school.
+
+### Watch for *since* and *for*
+
+Both go with present perfect when describing a duration continuing to now.
+
+- *since* + a point in time: *since Monday, since 2019, since I was a child.*
+- *for* + a length of time: *for two years, for a week, for my whole life.*
+
+- We **have lived** in Matara **since** 2010.
+- We **have lived** in Matara **for** 15 years.
+
+## Common Sri Lankan mix-ups
+
+### Mix-up 1: Present perfect with "yesterday"
+
+- ✗ He has come yesterday.
+- ✓ He came yesterday.
+
+If there's a specific past time, use past simple.
+
+### Mix-up 2: Past simple with "ever"
+
+- ✗ Did you ever go to London?
+- ✓ Have you ever been to London?
+
+*Ever* for life experience signals present perfect.
+
+### Mix-up 3: Past simple with "already"
+
+- ✗ I already ate my lunch.
+- ✓ I have already eaten my lunch.
+
+*Already* usually takes present perfect in British/Sri Lankan English. (In American English, both are accepted, but for O/L and IELTS, use the present perfect version.)
+
+### Mix-up 4: Confusing "been to" and "gone to"
+
+- *have been to* = visited and returned.
+- *have gone to* = went and is still there.
+
+- She **has been to** Colombo. (She visited and came back.)
+- She **has gone to** Colombo. (She's still there now.)
+
+### Mix-up 5: Over-using the present perfect
+
+Some learners use present perfect for everything after they discover it. "I have ate breakfast. I have went to work." Both wrong. If you can name the time, use past simple.
+
+## Quick test yourself
+
+Fill in the correct tense:
+
+1. I ______ (not finish) my homework yet.
+2. We ______ (visit) Yala National Park last December.
+3. She ______ (live) in this house since 2015.
+4. ______ you ever ______ (try) crab curry?
+5. The bus ______ (leave) five minutes ago.
+6. He ______ (just / arrive) from Colombo.
+7. They ______ (not see) each other for a long time.
+8. I ______ (watch) the movie yesterday.
+
+Answers: 1. haven't finished. 2. visited. 3. has lived. 4. Have / tried. 5. left. 6. has just arrived. 7. haven't seen. 8. watched.
+
+If you got 6 or more right, you've got this. Fewer than that, read the examples again.
+
+## Where this tense pair shows up
+
+### O/L English
+
+Transformation questions, gap-fills in the grammar section, and constructed sentences in Paper II. The rule above handles almost every question.
+
+### IELTS
+
+Comes up constantly in Speaking (life experiences) and in Writing Task 2 (unfinished time: *the world has changed*, *governments have introduced*).
+
+### Everyday English
+
+The two tenses carry a huge amount of conversation. Mixing them up isn't a crime, but using them correctly makes your English sound noticeably more natural.
+
+## How to drill this
+
+- **Narrate your day in past simple.** "I woke up at 6. I had tea at 7. I left for work at 8."
+- **Describe your life in present perfect.** "I have lived in Matara all my life. I have travelled to three countries. I have never tried bungee jumping."
+- **Convert sentences.** Write 10 past simple sentences about yesterday, then rewrite the same actions in present perfect as if they just happened: *I ate rice for lunch* → *I have just eaten rice for lunch*.
+
+Fifteen minutes a day for a week and you'll stop mixing them up.
+
+## Where Woodberry Place fits
+
+Our O/L English and spoken English programmes drill tenses through writing and conversation, not just worksheets. If present perfect still feels confusing after reading this, a few weeks of structured practice usually locks it in.
+
+## Frequently asked questions
+
+**Why is present perfect so difficult for Sri Lankans?**
+
+Sinhala and Tamil don't have an exact equivalent, so learners have to think about it rather than feel it. With practice it becomes automatic.
+
+**Can I use present perfect with "ago"?**
+
+No. *Ago* always takes past simple. "Two years ago" means a specific past time, which the present perfect doesn't allow.
+
+**Is present perfect only for finished actions?**
+
+No. It can also describe ongoing situations from the past to now, especially with *for* and *since*. "She has worked here for ten years" — still working.
+
+**What's the easiest way to remember which to use?**
+
+Ask yourself: "Can I say when?" If yes, past simple. If no, usually present perfect.
+
+---
+
+Want tenses drilled through writing and conversation, not worksheets? [See our O/L English programme](https://woodberryplace.com/courses/ol-english/) or our [Spoken English classes](https://woodberryplace.com/courses/spoken-english/).
+
+
+---
+
+<!-- SOURCE FILE: blog-22-english-articles-a-an-the.md -->
+
+---
+title: "English Articles (a, an, the): The Simplest Explanation You'll Read"
+meta_description: "Articles are the hardest small words in English for Sri Lankans. Here's the clearest guide — when to use a, an, the, or nothing — with examples."
+slug: english-articles-a-an-the
+primary_keyword: english articles a an the
+secondary_keywords: [english articles rules, a or an, when to use the, articles in english]
+target_audience: all learners, O/L students, IELTS candidates
+word_count_target: 1300
+---
+
+# English Articles (a, an, the): The Simplest Explanation You'll Read
+
+Articles are the first words English learners meet and the last ones they get right. Sinhala and Tamil don't use articles the way English does, so most Sri Lankan learners either skip them, overuse them, or sprinkle *the* randomly hoping something lands.
+
+Good news: the core rules fit on a single page. Here they are, with examples pulled from daily Sri Lankan life.
+
+## The three articles (and the fourth option)
+
+- **a** — before a word that starts with a consonant sound. *A book, a car, a university.*
+- **an** — before a word that starts with a vowel sound. *An apple, an umbrella, an hour.*
+- **the** — specific, known to both speaker and listener.
+- **No article** — the "zero article" — general ideas, plural generalisations, most uncountable nouns.
+
+Notice: it's the **sound**, not the letter, that matters. *A university* (sounds like "yoo"), *an hour* (sounds like "ow").
+
+## When to use *a* or *an*
+
+Use *a / an* when you're introducing something for the first time, or when any one of a type will do.
+
+- I need **a** pen. (Any pen.)
+- She's reading **a** book. (First mention.)
+- He's **a** teacher. (One of many teachers.)
+- I had **an** egg for breakfast. (One of several.)
+
+Use with **singular countable nouns** only. Not with plurals (*a books*) and not with uncountables (*a milk*).
+
+## When to use *the*
+
+Use *the* when both you and the listener know which specific one you mean.
+
+### 1. Already mentioned
+
+- I bought **a** book. **The** book was expensive.
+
+The second time, the listener knows which book.
+
+### 2. Only one exists
+
+- **The** sun rose at 6 am.
+- Please close **the** door. (The one in this room.)
+- **The** President addressed the nation.
+
+### 3. Specified by context
+
+- **The** boy in the blue shirt is my brother. (Which boy? The one in the blue shirt.)
+- Pass me **the** salt. (The one on the table we're sitting at.)
+
+### 4. Superlatives and ordinals
+
+- **The** best student in class.
+- **The** first day of school.
+
+### 5. Places with compound or plural names
+
+- **The** United Kingdom, **the** Philippines, **the** Netherlands.
+- **The** Indian Ocean, **the** Nile, **the** Himalayas.
+
+But: Sri Lanka (no *the*), India (no *the*), Mount Everest (no *the*), Lake Gregory (no *the*).
+
+## When to use no article
+
+The zero article trips up most learners. Use nothing in these cases.
+
+### 1. General plural nouns
+
+- Children love ice cream. (Children in general.)
+- Elephants are big.
+
+### 2. Most uncountable nouns speaking generally
+
+- Water is essential.
+- Rice is grown in Sri Lanka.
+- Happiness matters.
+
+### 3. Most countries, cities, continents
+
+- I live in Sri Lanka.
+- She's from Matara.
+- We travelled to Asia.
+
+### 4. Meals, days, months
+
+- I have lunch at noon.
+- See you on Monday.
+- It rains in November.
+
+### 5. Languages and subjects
+
+- She speaks Sinhala.
+- He teaches mathematics.
+
+### 6. Many common phrases
+
+- Go to school, go to bed, go to work, go home, go to church, go to hospital (BrE — means as a patient).
+
+## Common Sri Lankan article mistakes
+
+### Mistake 1: Dropping *the* before unique things
+
+- ✗ Sun rises in east.
+- ✓ **The** sun rises in **the** east.
+
+### Mistake 2: Using *the* with general plurals
+
+- ✗ The children are noisy. (If you mean children in general.)
+- ✓ Children are noisy.
+
+But: *The children in Grade 3 are noisy* — specific group, use *the*.
+
+### Mistake 3: Using articles with abstract uncountables
+
+- ✗ The happiness is important.
+- ✓ Happiness is important.
+
+Unless you're specifying — *the happiness of a child is different from the happiness of an adult.*
+
+### Mistake 4: Missing article before a job title
+
+- ✗ She is doctor.
+- ✓ She is **a** doctor.
+
+### Mistake 5: *A* before vowel sounds
+
+- ✗ A honour, a hour.
+- ✓ **An** honour, **an** hour.
+
+The *h* is silent, so the word starts with a vowel sound.
+
+### Mistake 6: Confusing institutions
+
+- *Go to school* — meaning as a student. No article.
+- *Go to the school* — meaning the physical building, for any reason.
+- *Go to bed* — meaning to sleep. No article.
+- *Go to the bed* — the specific piece of furniture.
+
+Same pattern with hospital, church, university, prison. The article changes the meaning.
+
+## The one-second test
+
+Not sure which article to use? Ask these three questions in order.
+
+1. **Is the noun specific — can both of us point to it?** If yes, use *the*.
+2. **Is the noun one of many, singular, countable, and first mentioned?** If yes, use *a* or *an*.
+3. **Is it a general plural, uncountable, or a name without an article?** If yes, use nothing.
+
+Run this for the first week and articles stop feeling random.
+
+## Quick drill
+
+Add *a*, *an*, *the*, or nothing:
+
+1. I bought ___ bike yesterday. ___ bike is red.
+2. Can you pass me ___ salt?
+3. ___ elephants are intelligent animals.
+4. She's ___ doctor at ___ Matara hospital.
+5. We're going to ___ Sri Lanka next month.
+6. ___ Nile is ___ longest river in Africa.
+7. He eats ___ rice every day.
+8. There's ___ owl in ___ garden.
+
+Answers: 1. a / The. 2. the. 3. – (zero). 4. a / – (or "the" if specific). 5. – (zero). 6. The / the. 7. – (zero). 8. an / the.
+
+## Why articles are worth getting right
+
+- O/L and A/L gap-fills test articles directly.
+- IELTS writing rubrics mark grammar range — article accuracy lifts your band.
+- Spoken English with consistent articles sounds significantly more natural.
+- Business emails without articles read as abrupt or incorrect.
+
+Fixing articles alone can move a Writing band half a point.
+
+## How to practise
+
+- **Read a page of a novel and circle every article.** Ask why it's there.
+- **Write a paragraph with no articles.** Then go back and add them. See what the paragraph needs.
+- **Listen to native English and notice articles.** They're spoken quickly but they're always there.
+
+Four weeks of this builds an instinct. The rules become automatic.
+
+## Where Woodberry Place fits
+
+Our O/L and IELTS classes catch article errors in students' writing week by week. We don't teach articles as a single topic — we flag them in context, which is how they actually stick.
+
+## Frequently asked questions
+
+**Why do Sri Lankans struggle with English articles?**
+
+Sinhala and Tamil don't use articles the same way. Most learners don't need articles in their first language, so English feels like adding unnecessary words. Practice makes them feel natural.
+
+**Should I use *a* or *an* before "hour"?**
+
+*An hour.* The *h* is silent, so the word starts with a vowel sound.
+
+**Is it "the Sri Lanka" or "Sri Lanka"?**
+
+Just *Sri Lanka* — no article. Most single-word country names skip *the*.
+
+**Can I ever use *the* with a person's name?**
+
+Rarely, and usually for family nicknames ("the Jayasinghes are coming") or titles ("the Prime Minister"). Not with individual names.
+
+---
+
+Want article errors caught in your writing every week? [See our O/L English programme](https://woodberryplace.com/courses/ol-english/) or [our IELTS classes](https://woodberryplace.com/courses/ielts/).
+
+
+---
+
+<!-- SOURCE FILE: blog-23-prepositions-after-verbs.md -->
+
+---
+title: "Prepositions After Verbs: The 40 You Actually Need"
+meta_description: "Forty verb-preposition pairs every Sri Lankan English learner should know — with examples, common errors, and the memory tricks that lock them in."
+slug: prepositions-after-verbs-english
+primary_keyword: english prepositions after verbs
+secondary_keywords: [verb preposition combinations, prepositions in english, english collocations, grammar for sri lankans]
+target_audience: intermediate learners, O/L students, working adults
+word_count_target: 1400
+---
+
+# Prepositions After Verbs: The 40 You Actually Need
+
+Prepositions are the small words that don't follow rules. *Interested in*, not *interested on*. *Married to*, not *married with*. *Depend on*, not *depend of*. There's no logic — only memory.
+
+Here are the 40 verb-preposition pairs that show up most often in Sri Lankan English, grouped so they're easier to remember. Learn these cold and your English stops sounding translated.
+
+## Agree
+
+- **agree with** (a person) — I agree **with** you.
+- **agree on / about** (a topic) — We agreed **on** the price.
+- **agree to** (a proposal) — She agreed **to** help.
+
+## Argue
+
+- **argue with** (a person) — Don't argue **with** your parents.
+- **argue about** (a topic) — They argued **about** money.
+
+## Apologise
+
+- **apologise to** (a person) — I apologised **to** my teacher.
+- **apologise for** (an action) — He apologised **for** being late.
+
+Note: *apologise*, not *apologise with* or *apologise from*.
+
+## Ask
+
+- **ask for** (something you want) — She asked **for** help.
+- **ask about** (information) — He asked **about** the exam.
+
+## Believe
+
+- **believe in** (something exists / have faith in) — I believe **in** hard work.
+- **believe (someone)** — I believe you. (No preposition.)
+
+## Belong
+
+- **belong to** — This book belongs **to** my sister.
+
+## Care
+
+- **care about** (matters to you) — She cares **about** the environment.
+- **care for** (look after) — He cares **for** his grandmother.
+
+## Complain
+
+- **complain about** (a problem) — She complained **about** the noise.
+- **complain to** (a person) — He complained **to** the manager.
+
+## Depend / Rely
+
+- **depend on** — Success depends **on** effort.
+- **rely on** — You can rely **on** her.
+
+Never *depend of*, never *depend from*.
+
+## Dream
+
+- **dream about** (during sleep) — I dreamt **about** flying.
+- **dream of** (a wish) — She dreams **of** becoming a doctor.
+
+## Hear
+
+- **hear about** (news) — I heard **about** the accident.
+- **hear from** (receive a message) — Have you heard **from** her?
+- **hear of** (know the name) — I've never heard **of** that band.
+
+## Insist
+
+- **insist on** — He insisted **on** paying.
+
+## Laugh
+
+- **laugh at** (mocking) — Don't laugh **at** him.
+- **laugh about** (something funny) — We laughed **about** it later.
+
+## Listen
+
+- **listen to** — I listen **to** music every day.
+
+Never *listen music* (very common Sri Lankan error).
+
+## Look
+
+- **look at** — Look **at** this picture.
+- **look for** (search) — I'm looking **for** my keys.
+- **look after** (take care of) — She looks **after** her younger brother.
+- **look forward to** (await happily) — We look forward **to** the holidays.
+
+## Pay
+
+- **pay for** (something bought) — She paid **for** the meal.
+- **pay someone** (direct, no preposition) — I paid the driver.
+
+## Prepare
+
+- **prepare for** — He's preparing **for** the IELTS.
+- **prepare (a meal)** — She prepared dinner. (No preposition.)
+
+## Succeed
+
+- **succeed in** — She succeeded **in** finding a job.
+
+Note: *succeed in*, not *succeed to* (that's a throne).
+
+## Suffer
+
+- **suffer from** (an illness) — He suffers **from** asthma.
+
+## Talk / Speak
+
+- **talk to / speak to** (a person) — I spoke **to** the teacher.
+- **talk about / speak about** (a topic) — They talked **about** cricket.
+
+## Think
+
+- **think about** (consider) — Think **about** the question.
+- **think of** (have an opinion) — What do you think **of** this plan?
+
+## Wait
+
+- **wait for** — I'm waiting **for** the bus.
+
+Never *wait* alone when there's an object. Not *I'm waiting the bus*.
+
+## Worry
+
+- **worry about** — Don't worry **about** me.
+
+## Write
+
+- **write to** (a person) — She wrote **to** her cousin.
+- **write about** (a topic) — He wrote **about** climate change.
+
+## Adjective + preposition (bonus, but essential)
+
+These aren't verbs, but they appear with verbs constantly and get mixed up:
+
+- *good at*, *bad at*, *clever at* (skills)
+- *afraid of*, *proud of*, *tired of*, *fond of*
+- *angry with / at* (a person), *angry about* (a situation)
+- *married to*, *similar to*, *related to*, *kind to*, *rude to*
+- *interested in*, *involved in*, *experienced in*
+- *responsible for*, *famous for*, *known for*, *suitable for*
+- *pleased with*, *disappointed with*, *satisfied with*
+
+## The six that trip up Sri Lankans most
+
+1. **Listen to** music — not *listen music*.
+2. **Depend on** — not *depend of*.
+3. **Married to** — not *married with*.
+4. **Discuss** (no preposition!) — *We discussed the problem*, not *we discussed about the problem*.
+5. **Different from** — not *different than* (BrE).
+6. **Agree with** a person, **agree on** a topic.
+
+## Three verbs that take no preposition (contrary to first instinct)
+
+Sri Lankan learners often add a preposition where none is needed.
+
+- **discuss** — *We discussed the issue.*
+- **enter** — *She entered the room.* (Not *entered into* — that's a contract.)
+- **answer** — *Please answer the question.* (Not *answer to*.)
+
+## How to learn these without a boring list
+
+### Method 1: Chunks, not pairs
+
+Learn whole phrases, not verb-plus-preposition in isolation.
+
+- "I'm looking forward to seeing you."
+- "She's good at maths."
+- "He depends on his parents."
+
+Memorise the sentence, not the grammar point.
+
+### Method 2: Personal examples
+
+Write 10 sentences using the prepositions above, about your own life.
+
+- "I'm interested in cricket."
+- "I'm good at cooking."
+- "My brother is afraid of dogs."
+
+Your own sentences stick far better than someone else's examples.
+
+### Method 3: Correct your past mistakes
+
+Read something you wrote last month. Underline every verb. Check the preposition. Fix anything wrong. Rewriting your own errors is the fastest way to never repeat them.
+
+### Method 4: Flashcards (yes, really)
+
+For stubborn ones. Verb on one side, preposition on the other. Five minutes a day.
+
+## Where these show up in exams
+
+### O/L English
+
+Gap-fills regularly test verb-preposition combinations. "She is good ___ English." (*at*.)
+
+### A/L General English
+
+Preposition questions appear in the grammar section almost every year.
+
+### IELTS
+
+Writing and Speaking both mark grammatical accuracy. Wrong prepositions don't always lose a point, but a pattern of wrong prepositions keeps your band at 6.
+
+## Where Woodberry Place fits
+
+Our O/L English and Business English classes catch preposition errors in writing week by week. Over a term, students shift from 10–15 preposition errors per essay to 2 or fewer — just from seeing the correct forms in context repeatedly.
+
+## Frequently asked questions
+
+**Why are English prepositions so irregular?**
+
+Historical reasons. Many were set centuries ago and never standardised by rule. There's no shortcut — you memorise the common ones and the rest become natural.
+
+**Is it *different from* or *different to*?**
+
+Both are grammatically acceptable in British English. *Different from* is the safer, more formal choice. Avoid *different than* (that's American).
+
+**Should I say *married with* or *married to*?**
+
+*Married to.* "Married with" means something different: "She is married with two children" (i.e., she's married and has two children).
+
+**Is it *discuss about* or just *discuss*?**
+
+Just *discuss*. The verb already includes the "about" meaning. "We discussed the problem" is correct.
+
+---
+
+Want preposition errors flagged in your writing every week? [See our O/L English programme](https://woodberryplace.com/courses/ol-english/) or [Business English classes](https://woodberryplace.com/courses/spoken-english/).
+
+
+---
+
+<!-- SOURCE FILE: blog-24-active-vs-passive-voice.md -->
+
+---
+title: "Active vs Passive Voice: When to Use Each (and Why)"
+meta_description: "A clear guide to active and passive voice in English — when passive is the better choice, when to avoid it, and how it shows up in O/L and IELTS."
+slug: active-vs-passive-voice-english
+primary_keyword: active vs passive voice english
+secondary_keywords: [passive voice english, when to use passive, active voice, english grammar sri lanka]
+target_audience: O/L students, A/L students, IELTS candidates
+word_count_target: 1300
+---
+
+# Active vs Passive Voice: When to Use Each (and Why)
+
+Most English teachers tell students "avoid the passive voice." That's bad advice. The passive voice is useful — in the right places. The real skill is knowing when to use each.
+
+Here's a clear guide, with examples from everyday Sri Lankan writing and speaking, plus the transformation rule for O/L and A/L exam questions.
+
+## The core difference
+
+- **Active:** the subject does the action.
+  - *The teacher marked the papers.*
+- **Passive:** the action is done to the subject.
+  - *The papers were marked by the teacher.*
+
+Same event, different focus. In active, the teacher is the star. In passive, the papers are.
+
+## The passive formula
+
+- **Passive = the right form of "to be" + past participle (3rd form of the verb)**
+
+### By tense
+
+| Tense | Active | Passive |
+|---|---|---|
+| Present simple | She writes the report. | The report is written. |
+| Present continuous | She is writing the report. | The report is being written. |
+| Past simple | She wrote the report. | The report was written. |
+| Past continuous | She was writing the report. | The report was being written. |
+| Present perfect | She has written the report. | The report has been written. |
+| Past perfect | She had written the report. | The report had been written. |
+| Future | She will write the report. | The report will be written. |
+
+The pattern is always: form of *be* (correct tense) + past participle.
+
+## When to use the passive
+
+### 1. The doer is unknown
+
+- *My bike was stolen.* (I don't know who stole it.)
+- *The window has been broken.* (By someone — we don't know.)
+
+### 2. The doer is obvious
+
+- *He was arrested.* (By the police. We don't need to say.)
+- *She was born in Galle.* (By her parents, obviously.)
+
+### 3. The doer is unimportant
+
+- *The road has been repaired.* (The focus is the road, not who repaired it.)
+- *English is spoken worldwide.* (By many people — not relevant.)
+
+### 4. Formal writing — reports, academic, news
+
+- *The results were analysed.*
+- *The policy has been reviewed.*
+- *Three suspects have been detained.*
+
+Passive gives distance. It's the voice of news and officialdom.
+
+### 5. When the object is more interesting than the subject
+
+- Active: *A tsunami hit the south coast in 2004.*
+- Passive: *The south coast was hit by a tsunami in 2004.*
+
+Both work. The passive puts the coast first, where the focus is.
+
+## When to avoid the passive
+
+### 1. Everyday conversation
+
+Passive sounds stiff in speech.
+
+- ✗ *The ball was kicked by me.*
+- ✓ *I kicked the ball.*
+
+### 2. When you want to assign responsibility
+
+- *Mistakes were made.* (Passive — nobody blamed.)
+- *I made mistakes.* (Active — honest.)
+
+Politicians love the passive for exactly this reason. Honest writers avoid it.
+
+### 3. When active is simply clearer and shorter
+
+- ✗ *The cake was eaten by the children.*
+- ✓ *The children ate the cake.*
+
+Nothing is gained by using the longer version.
+
+### 4. In most IELTS writing
+
+The IELTS writing band rewards clear, varied sentences. Over-using passive drops your Lexical Resource and Coherence scores. One or two passive sentences per essay is fine — more than that and the essay reads as awkward.
+
+## Common Sri Lankan passive mistakes
+
+### Mistake 1: Missing "be"
+
+- ✗ *The letter wrote by him.*
+- ✓ *The letter was written by him.*
+
+The *be* form is not optional.
+
+### Mistake 2: Wrong participle form
+
+- ✗ *The cake was eat by the children.*
+- ✓ *The cake was eaten by the children.*
+
+Use the past participle (third form), not the base form.
+
+### Mistake 3: Keeping the active object
+
+- ✗ *The ball was kicked the goal.*
+- ✓ *The ball was kicked into the goal.*
+
+### Mistake 4: Forgetting *by* with the agent
+
+- ✗ *The book was written him.*
+- ✓ *The book was written **by** him.*
+
+If you mention the doer at all in a passive sentence, it needs *by*.
+
+## The transformation rule (for O/L and A/L)
+
+Exam questions often ask you to change active to passive or back.
+
+### Active to passive — four steps
+
+1. **Find the object** of the active sentence (the thing receiving the action).
+2. **Move it to the subject position.**
+3. **Change the verb** to the correct tense of *be* + past participle.
+4. **Add the original subject** at the end with *by* (or drop it if not needed).
+
+### Example
+
+Active: *The chef cooked a delicious meal.*
+
+- Object: *a delicious meal*.
+- New subject: *A delicious meal*.
+- Verb: past simple active (*cooked*) becomes past simple passive (*was cooked*).
+- Original subject: *the chef* → *by the chef*.
+
+Passive: *A delicious meal was cooked by the chef.*
+
+### Try these
+
+Convert to passive:
+
+1. The teacher explains the lesson.
+2. Someone has broken the window.
+3. They will announce the results tomorrow.
+4. The farmers are planting rice.
+5. The cat ate the fish.
+
+Answers:
+
+1. The lesson is explained by the teacher.
+2. The window has been broken.
+3. The results will be announced tomorrow.
+4. Rice is being planted by the farmers.
+5. The fish was eaten by the cat.
+
+## Passive tips for IELTS Writing
+
+- Use passive 2–3 times in a Task 1 (data) essay, where "The data shows" and "It can be seen" sound natural.
+- Use active mostly in Task 2 — your opinions and examples sound stronger in active voice.
+- Avoid stacking passive sentences — two or more in a row sounds heavy.
+
+## Passive for O/L English
+
+- Transformation questions appear almost every year.
+- Dialogue and short composition questions sometimes require you to report what was done (often passive).
+- Comprehension answers using text evidence are often passive.
+
+Learn the four-step transformation and most exam questions become mechanical.
+
+## Where Woodberry Place fits
+
+Our O/L and A/L English programmes drill the transformation in both directions until students can do it without thinking. Our IELTS classes focus on *when* to use passive, which matters more for Writing bands than *how*.
+
+## Frequently asked questions
+
+**Is passive voice bad in English?**
+
+No — only overused passive. Used in the right places (unknown doer, formal writing, when the object is the focus), passive is correct and natural.
+
+**How do I know if a sentence is passive?**
+
+Look for the pattern: form of *be* + past participle (often ending in *-ed* or *-en*). If the subject is receiving the action, it's passive.
+
+**Why does IELTS mark down heavy passive?**
+
+Overuse of passive makes writing less varied and less clear. The marking rubric rewards range and clarity, both of which active supports better.
+
+**Do all languages have passive voice?**
+
+Not in the same way. Sinhala and Tamil express similar ideas differently, which is why the English passive can feel odd to Sri Lankan learners at first.
+
+---
+
+Want transformation drills inside full past-paper practice? [See our O/L English programme](https://woodberryplace.com/courses/ol-english/) or [our IELTS classes](https://woodberryplace.com/courses/ielts/).
+
+
+---
+
+<!-- SOURCE FILE: blog-25-reported-speech.md -->
+
+---
+title: "Reported Speech: A Clear Guide for Sri Lankan Students"
+meta_description: "Reported speech rules explained simply — tense shifts, pronoun changes, time words — with O/L exam examples and practice sentences."
+slug: reported-speech-english-rules
+primary_keyword: reported speech english rules
+secondary_keywords: [direct and indirect speech, reported speech ol english, reported speech sri lanka, indirect speech rules]
+target_audience: O/L students, A/L students
+word_count_target: 1400
+---
+
+# Reported Speech: A Clear Guide for Sri Lankan Students
+
+Reported speech — turning what someone said into a report of what they said — appears on almost every O/L English paper and shows up in A/L General English too. Students lose marks on this question not because the rules are hard, but because the rules aren't taught in a clear order.
+
+Here's the clear order.
+
+## The core idea
+
+- **Direct speech** — the exact words someone said, in quotation marks.
+  - *She said, "I am hungry."*
+- **Reported (indirect) speech** — a report of what they said, without quotation marks.
+  - *She said that she was hungry.*
+
+Three things change when you move from direct to reported:
+
+1. The **tense** shifts backwards one step.
+2. The **pronouns** shift to match the reporter's point of view.
+3. The **time and place words** shift.
+
+Everything else stays the same.
+
+## Rule 1: Tense shifts backwards
+
+When the reporting verb (*said, told*) is in the past tense, the reported tense usually moves back one step.
+
+| Direct speech | Reported speech |
+|---|---|
+| Present simple — *I am* | Past simple — *she was* |
+| Present continuous — *I am eating* | Past continuous — *she was eating* |
+| Present perfect — *I have eaten* | Past perfect — *she had eaten* |
+| Past simple — *I ate* | Past perfect — *she had eaten* |
+| *will* | *would* |
+| *can* | *could* |
+| *may* | *might* |
+| *must* | *had to* |
+
+### Example
+
+Direct: *He said, "I am going to Colombo."*
+Reported: *He said that he **was going** to Colombo.*
+
+Direct: *She said, "I have finished my homework."*
+Reported: *She said that she **had finished** her homework.*
+
+Direct: *They said, "We will travel next week."*
+Reported: *They said that they **would travel** the following week.*
+
+## Rule 2: Pronouns change
+
+Pronouns shift to match the perspective of the person reporting.
+
+- *I* → *he / she*
+- *we* → *they*
+- *my* → *his / her*
+- *our* → *their*
+- *you* → depends on context
+
+### Example
+
+Direct: *She said, "I love my school."*
+Reported: *She said that **she** loved **her** school.*
+
+Direct: *The children said, "We are tired."*
+Reported: *The children said that **they** were tired.*
+
+## Rule 3: Time and place words change
+
+Words tied to the moment of speaking shift when you report later.
+
+| Direct | Reported |
+|---|---|
+| now | then |
+| today | that day |
+| tomorrow | the next day / the following day |
+| yesterday | the previous day / the day before |
+| next week | the following week |
+| last week | the previous week |
+| here | there |
+| this | that |
+| these | those |
+
+### Example
+
+Direct: *He said, "I will see you tomorrow."*
+Reported: *He said that he would see me **the next day**.*
+
+Direct: *She said, "I bought this yesterday."*
+Reported: *She said that she had bought **that** **the previous day**.*
+
+## Reporting questions
+
+Questions become statements in reported speech. Two differences:
+
+1. The question mark disappears.
+2. The word order becomes subject-verb (not verb-subject).
+
+### Yes / no questions
+
+Use *if* or *whether*.
+
+Direct: *He asked, "Are you ready?"*
+Reported: *He asked **if** I was ready.*
+
+Direct: *She asked, "Did you call him?"*
+Reported: *She asked **whether** I had called him.*
+
+### Wh-questions
+
+Keep the question word (*who, what, where, when, why, how*).
+
+Direct: *He asked, "Where do you live?"*
+Reported: *He asked where I lived.*
+
+Direct: *She asked, "Why are you late?"*
+Reported: *She asked why I was late.*
+
+Common mistake: keeping the question order.
+
+- ✗ *He asked where do I live.*
+- ✓ *He asked where I lived.*
+
+## Reporting commands and requests
+
+Use *to* + base verb. The reporting verb is often *told, asked, ordered, begged, requested.*
+
+Direct: *The teacher said, "Open your books."*
+Reported: *The teacher told us **to open** our books.*
+
+Direct: *My mother said, "Please help me."*
+Reported: *My mother asked me **to help** her.*
+
+For negative commands, use *not to* + base verb.
+
+Direct: *He said, "Don't be late."*
+Reported: *He told me **not to be** late.*
+
+## When tense does NOT shift
+
+Two common exceptions:
+
+### 1. Universal truths
+
+If the reported statement is a fact that's still true, you can keep the present tense.
+
+Direct: *The teacher said, "The earth moves around the sun."*
+Reported: *The teacher said that the earth **moves** around the sun.* (Optional — you could also say *moved*.)
+
+### 2. Reporting verb in present tense
+
+If *say* / *says* is in the present tense, no tense shift happens.
+
+Direct: *She says, "I am happy."*
+Reported: *She says that she **is** happy.*
+
+## Common Sri Lankan reported-speech mistakes
+
+### Mistake 1: Keeping question order
+
+- ✗ *He asked where am I going.*
+- ✓ *He asked where I was going.*
+
+### Mistake 2: Keeping "that" where it should be "if / whether"
+
+- ✗ *She asked that I would come.*
+- ✓ *She asked **if / whether** I would come.*
+
+### Mistake 3: Forgetting to shift pronouns
+
+- ✗ *He said that I am tired.* (Where "I" refers to him.)
+- ✓ *He said that **he** was tired.*
+
+### Mistake 4: Double-shifting past perfect
+
+Past perfect doesn't shift back — it's already as far back as it goes.
+
+- Direct: *She said, "I had finished my work."*
+- Reported: *She said that she had finished her work.* (Not *had had*.)
+
+### Mistake 5: Using "said" for everything
+
+Vary reporting verbs: *told, asked, explained, replied, mentioned, admitted, warned, promised.* Using the right one lifts your writing.
+
+Note: *told* needs an object. *Said* doesn't.
+
+- ✓ She **said** that she was happy.
+- ✓ She **told me** that she was happy.
+- ✗ She told that she was happy.
+
+## Quick practice
+
+Convert these to reported speech. Reporting verb in past tense.
+
+1. He said, "I am watching a movie."
+2. She asked, "Where are you going?"
+3. They said, "We will come tomorrow."
+4. The teacher said, "Don't talk during the exam."
+5. "Have you eaten?" she asked.
+6. My father said, "I bought this car last year."
+
+Answers:
+
+1. He said that he was watching a movie.
+2. She asked where I was going.
+3. They said that they would come the next day.
+4. The teacher told us not to talk during the exam.
+5. She asked if I had eaten.
+6. My father said that he had bought that car the previous year.
+
+## Where reported speech shows up
+
+### O/L English
+
+Paper II grammar section — a transformation of 5–10 marks that appears almost every year. Fast marks if you know the rules.
+
+### A/L General English
+
+Shorter but similar — usually one or two questions in the grammar section.
+
+### IELTS Writing
+
+Not tested directly, but appears constantly in academic writing. "The author argues that..." is a form of reporting.
+
+### Everyday English
+
+Any time you tell someone what someone else said. This is one of the most-used structures in daily life.
+
+## How to drill reported speech
+
+- **Rewrite dialogues from short stories** in reported form.
+- **Report conversations from your day** at night — out loud or in a notebook.
+- **Watch a short film clip, pause after each line**, and report what the character just said.
+
+Fifteen minutes a day for two weeks and this stops feeling like grammar — it becomes a habit.
+
+## Where Woodberry Place fits
+
+Our O/L English programme covers reported speech through writing and spoken reporting, not just gap-fills. By the time the exam comes, students handle the transformation question in under five minutes.
+
+## Frequently asked questions
+
+**Is reported speech always needed in formal writing?**
+
+No. You can also use direct quotes in formal writing, especially for reports, journalism, and academic papers. Reported speech is for summarising what someone said.
+
+**Can I ever skip the tense shift?**
+
+Yes — for universal truths and for present-tense reporting verbs. Otherwise, the shift is expected in formal writing.
+
+**Why is *told* different from *said*?**
+
+*Tell* takes a direct object (*told me, told her, told the class*). *Say* doesn't (*said that, said quietly*). This is one of the most common mix-ups in O/L writing.
+
+**Does reported speech appear in IELTS?**
+
+Directly, no. Indirectly, yes — you'll use it in Writing Task 2 whenever you paraphrase or discuss ideas. Learning it well helps your academic writing.
+
+---
+
+Want transformation drills inside full past-paper practice? [See our O/L English programme](https://woodberryplace.com/courses/ol-english/) or [A/L English classes](https://woodberryplace.com/courses/al-english/).
+
+
+---
+
+<!-- SOURCE FILE: blog-26-business-english-vocabulary.md -->
+
+---
+title: "50 Business English Words Every Sri Lankan Office Worker Needs"
+meta_description: "A practical list of 50 business English words — with meanings, example sentences, and common mix-ups — for Sri Lankan office workers and professionals."
+slug: business-english-vocabulary-sri-lanka
+primary_keyword: business english vocabulary sri lanka
+secondary_keywords: [business english words, office english sri lanka, workplace english, professional english vocabulary]
+target_audience: working adults, office staff, professionals
+word_count_target: 1500
+---
+
+# 50 Business English Words Every Sri Lankan Office Worker Needs
+
+If you work in an office in Sri Lanka — a bank, a BPO, a tech firm, a hotel, a shipping company — the English you need is a specific flavour. Not literary English. Not IELTS English. Workplace English, which rewards precision and confidence over fancy vocabulary.
+
+Here are 50 words and phrases that come up in Sri Lankan offices every day, grouped by situation. Pick the ones you don't use yet and build them into your emails and meetings this week.
+
+## In a meeting
+
+1. **Agenda** — the list of topics for a meeting. *"What's on today's agenda?"*
+2. **Minutes** — the written record of a meeting. *"Who's taking the minutes?"*
+3. **Action item** — a specific task assigned in a meeting. *"That's an action item for Nimal."*
+4. **Follow up** — contact again later to check progress. *"I'll follow up with the client on Monday."*
+5. **Deadline** — the final date something must be done. *"The deadline is next Friday."*
+6. **Deliverable** — the specific output someone is responsible for. *"What are the deliverables for this project?"*
+7. **Deck** — a slide presentation. *"Can you send me the deck before the meeting?"*
+8. **Takeaway** — the main point to remember. *"The key takeaway is that sales grew 10% this quarter."*
+9. **Alignment** — agreement between teams or people. *"We need alignment with the finance team on this."*
+10. **Pushback** — resistance or objection. *"Expect some pushback from the vendors."*
+
+## In an email
+
+11. **Reach out** — contact someone, usually for the first time. *"I'm reaching out regarding the invoice."*
+12. **Touch base** — briefly contact to check in. *"Let's touch base next week."*
+13. **Circle back** — return to a topic later. *"I'll circle back once I have the data."*
+14. **Loop in** — include someone in a conversation. *"I'm looping in Priya from HR."*
+15. **For your information (FYI)** — sharing without expecting action. *"FYI, the office will close early tomorrow."*
+16. **End of day (EOD)** — by the end of today's working hours. *"Please send the report by EOD."*
+17. **End of business (EOB)** — same as EOD, more formal.
+18. **At your earliest convenience** — polite "as soon as possible." *"Please respond at your earliest convenience."*
+19. **Attached** — document included in email. *"Please find the report attached."*
+20. **Pending** — waiting for something. *"Your request is pending approval."*
+
+## In project work
+
+21. **Milestone** — a key point of progress. *"We've reached the halfway milestone."*
+22. **Scope** — what the project covers. *"That's outside the scope of this project."*
+23. **Budget** — the money allocated. *"We're over budget this quarter."*
+24. **Forecast** — a prediction of future performance. *"The sales forecast looks strong."*
+25. **Rollout** — launching or releasing something. *"The rollout is scheduled for January."*
+26. **Pilot** — a small test before full launch. *"We'll pilot this with ten customers first."*
+27. **Stakeholder** — anyone affected by the project. *"Let's get all stakeholders in one room."*
+28. **KPI** — key performance indicator, a measurable goal. *"Our main KPI is customer retention."*
+29. **Bottleneck** — the slow step that holds up everything else. *"Approval is the bottleneck here."*
+30. **Workaround** — a temporary fix. *"We have a workaround until the system is fixed."*
+
+## In performance and HR
+
+31. **Appraisal** — formal performance review. *"My appraisal is next week."*
+32. **Feedback** — comments on your work. *"Can you give me feedback on this draft?"*
+33. **Onboarding** — the process of starting a new employee. *"Her onboarding starts Monday."*
+34. **Promotion** — moving to a higher role. *"He got a promotion last month."*
+35. **Resignation** — formally quitting. *"She handed in her resignation yesterday."*
+36. **Notice period** — the time between resigning and leaving. *"My notice period is one month."*
+37. **Probation** — the trial period for a new employee. *"I'm still on probation for another two months."*
+38. **Headcount** — the number of employees. *"We're increasing headcount by 15% next year."*
+39. **Workload** — the amount of work. *"My workload has been heavy this month."*
+40. **Burnout** — exhaustion from overwork. *"She took leave for burnout."*
+
+## In client / customer talk
+
+41. **Proposal** — a formal offer or plan. *"We'll send the proposal tomorrow."*
+42. **Invoice** — a bill for goods or services. *"The invoice is due on the 15th."*
+43. **Quotation (or quote)** — a price estimate. *"Can you share your quote?"*
+44. **Lead** — a potential customer. *"We got three new leads this week."*
+45. **Pipeline** — the list of potential deals. *"There's a lot in the pipeline for Q2."*
+46. **Convert** — turn a lead into a customer. *"Our conversion rate is 20%."*
+47. **Churn** — customers leaving. *"Our churn rate dropped this year."*
+48. **Upsell** — sell a bigger or better version. *"Try to upsell them to the premium plan."*
+49. **Cross-sell** — sell additional products. *"We cross-sold insurance to our bank customers."*
+50. **Onboard a client** — bring a new customer into your system. *"We onboarded three new clients last month."*
+
+## Common Sri Lankan workplace mistakes
+
+### Mistake 1: *Revert* for "reply"
+
+Many Sri Lankan offices use "I will revert to you" to mean "I will reply." *Revert* actually means "go back to a previous state." In modern international English, use **reply**, **respond**, or **get back to you** instead. *Revert* for reply is still common in South Asian English but sounds odd elsewhere.
+
+### Mistake 2: *Do the needful*
+
+Old-fashioned phrase that sounds unprofessional in international settings. Use **"please take the necessary action"** or **"please handle this"**.
+
+### Mistake 3: *Prepone*
+
+Not standard international English. Use **"move earlier"** or **"bring forward"**. *"Can we move the meeting earlier?"*
+
+### Mistake 4: *Myself [Name]*
+
+"Myself Kasun" as a greeting is heard in Sri Lanka but isn't standard English. Use **"My name is Kasun"** or just **"I'm Kasun."**
+
+### Mistake 5: *Cope up*
+
+Should be **cope with**. *"I'm struggling to cope with the workload."*
+
+## Phrases that make emails sound professional
+
+- *I hope this email finds you well.* — Common opener. Use sparingly; can sound stiff.
+- *Thank you for getting back to me.* — Acknowledge a reply.
+- *Could you please confirm...* — Ask for confirmation politely.
+- *Please let me know if you have any questions.* — Close with openness.
+- *I look forward to hearing from you.* — Standard professional sign-off line.
+- *Apologies for the delay.* — If you're late replying.
+- *Just checking in on...* — Follow up gently.
+
+## How to actually learn these
+
+### Method 1: Learn 10, use 10
+
+Pick 10 from this list. Use each one in a real email or conversation this week. The ones you use will stick.
+
+### Method 2: Email templates
+
+Save 3–5 common email structures with these phrases built in. Edit the specifics each time. Over a month, the phrases become second nature.
+
+### Method 3: Replace one phrase at a time
+
+Each week, pick one Sri Lankanism to swap for a more international phrase. "Revert" becomes "reply." "Do the needful" becomes "please handle this." Small changes compound.
+
+### Method 4: Listen to a podcast
+
+Business podcasts (Harvard Business Review's *IdeaCast*, *The Indicator from Planet Money*) model the vocabulary in context. 20 minutes a few times a week builds a natural ear.
+
+## When to use plain English instead
+
+Jargon is a tool, not a style. In client emails, if a plain word works, use the plain word.
+
+- "Deliverable" is fine inside a project team — but "what you'll get" or "the final product" is clearer for a client.
+- "Loop in" is fine internally — "include" or "copy in" works just as well.
+
+Over-using jargon with people outside your team makes you sound less confident, not more.
+
+## Where Woodberry Place fits
+
+Our Business English classes cover workplace vocabulary, email writing, and meeting English for Sri Lankan professionals. Classes run in evenings and weekends so they don't clash with work.
+
+## Frequently asked questions
+
+**Is it okay to use Sri Lankan English in a professional email?**
+
+For local-only emails, Sri Lankan English conventions are fine. For international emails, cleaner global English is safer — it travels better.
+
+**Should I learn American or British business English?**
+
+Mostly interchangeable at the vocabulary level. British English is slightly more common in Sri Lankan workplaces. For international clients, either works — just stay consistent within one email.
+
+**How many business English words do I need?**
+
+A functional working vocabulary is around 500–800 business-specific words on top of general English. You don't learn them all at once — pick up 10–20 a month.
+
+**Can I improve business English on my own?**
+
+Yes. Email templates, business podcasts, and a workplace vocabulary notebook are enough for most adults. A class helps if you also need speaking practice for meetings and interviews.
+
+---
+
+Ready to build workplace English that travels? [See our Business English programme](https://woodberryplace.com/courses/spoken-english/) or get in touch about joining the next batch.
+
+
+---
+
+<!-- SOURCE FILE: blog-27-common-english-mistakes-sri-lankans.md -->
+
+---
+title: "Common English Mistakes Sri Lankans Make (and How to Fix Them)"
+meta_description: "A friendly list of the most common English mistakes Sri Lankan learners make, with the correct version and a quick fix for each."
+slug: common-english-mistakes-sri-lankans
+primary_keyword: common english mistakes sri lankans
+secondary_keywords: [sri lankan english mistakes, english errors to avoid, fix english errors, english corrections sri lanka]
+target_audience: all Sri Lankan English learners
+word_count_target: 1500
+---
+
+# Common English Mistakes Sri Lankans Make (and How to Fix Them)
+
+Every English speaker makes mistakes. The ones below are specific to Sri Lankan learners — not because our English is worse, but because our first languages (Sinhala and Tamil) work differently, and some errors get reinforced in local classrooms until they feel right.
+
+Here are the 25 we hear most often, with the fix for each.
+
+## Vocabulary and word-choice errors
+
+### 1. *Revert back*
+
+**Wrong:** *I will revert back to you tomorrow.*
+**Right:** *I will get back to you tomorrow.* / *I will reply tomorrow.*
+
+*Revert* is already dated usage for "reply" in South Asian English. *Revert back* doubles up — you only ever revert to something, not back to it.
+
+### 2. *Do the needful*
+
+**Wrong:** *Please do the needful.*
+**Right:** *Please take the necessary action.* / *Please handle this.*
+
+Old colonial phrase. Fine in some Sri Lankan offices, odd in international contexts.
+
+### 3. *Prepone*
+
+**Wrong:** *Can we prepone the meeting?*
+**Right:** *Can we move the meeting earlier?* / *Can we bring the meeting forward?*
+
+*Prepone* isn't standard international English. The opposite of *postpone* in English is "move earlier" or "bring forward."
+
+### 4. *Pass out* (meaning graduate)
+
+**Wrong:** *I passed out from Richmond College.*
+**Right:** *I graduated from Richmond College.*
+
+In international English, *pass out* means to faint. You don't want your CV saying you fainted from your school.
+
+### 5. *Myself [Name]*
+
+**Wrong:** *Myself Kasun.*
+**Right:** *I'm Kasun.* / *My name is Kasun.*
+
+### 6. *Cousin brother / cousin sister*
+
+**Wrong:** *He's my cousin brother.*
+**Right:** *He's my cousin.*
+
+In English, *cousin* already means the child of your uncle or aunt — no need to add brother or sister.
+
+### 7. *Real brother*
+
+**Wrong:** *That's my real brother.*
+**Right:** *That's my brother.* (Or *my biological brother* if the context needs that distinction.)
+
+### 8. *Native place*
+
+**Wrong:** *What is your native place?*
+**Right:** *Where are you from?* / *Where's your hometown?*
+
+### 9. *Out of station*
+
+**Wrong:** *He's out of station this week.*
+**Right:** *He's out of town this week.* / *He's away on a trip.*
+
+### 10. *Discuss about*
+
+**Wrong:** *We discussed about the issue.*
+**Right:** *We discussed the issue.*
+
+*Discuss* doesn't take *about*. It already means "talk about."
+
+## Preposition errors
+
+### 11. *Listen music*
+
+**Wrong:** *I like to listen music.*
+**Right:** *I like to listen to music.*
+
+### 12. *Married with*
+
+**Wrong:** *She is married with Kasun.*
+**Right:** *She is married to Kasun.*
+
+### 13. *Depend of*
+
+**Wrong:** *It depends of the weather.*
+**Right:** *It depends on the weather.*
+
+### 14. *Different than*
+
+**Wrong (BrE):** *This is different than that.*
+**Right:** *This is different from that.*
+
+### 15. *Good in* (meaning skilled)
+
+**Wrong:** *She is good in English.*
+**Right:** *She is good at English.*
+
+(*Good in* works for subjects you study — "She is good in school" — but for a skill, use *good at*.)
+
+## Tense and verb errors
+
+### 16. *I am having two brothers*
+
+**Wrong:** *I am having two brothers.*
+**Right:** *I have two brothers.*
+
+Verbs of possession (*have, own, belong, know, understand, love*) don't usually take the continuous (-ing) form.
+
+### 17. Present perfect with "yesterday"
+
+**Wrong:** *I have gone to Galle yesterday.*
+**Right:** *I went to Galle yesterday.*
+
+If there's a specific past time, use past simple. See our [full present perfect vs past simple guide](https://woodberryplace.com/blog/present-perfect-vs-past-simple/).
+
+### 18. *What is the time?*
+
+**Wrong (grammatically fine, culturally odd):** *What is the time?*
+**Right / more natural:** *What's the time?* / *Do you have the time?*
+
+Contracted versions sound more natural in speech.
+
+### 19. *Doubt* for a question
+
+**Wrong:** *I have a doubt about the homework.*
+**Right:** *I have a question about the homework.*
+
+In English, *doubt* means uncertainty or suspicion, not a question.
+
+### 20. *Open the light*
+
+**Wrong:** *Can you open the light?*
+**Right:** *Can you turn on the light?* / *Can you switch on the light?*
+
+Lights get turned on or switched on, not opened. Same for the TV, radio, and fan.
+
+## Article errors
+
+### 21. Missing *the* before unique things
+
+**Wrong:** *Sun rises in east.*
+**Right:** *The sun rises in the east.*
+
+### 22. Using *the* with general plurals
+
+**Wrong:** *The children should respect the elders.* (If meant generally.)
+**Right:** *Children should respect elders.*
+
+Use *the* only when referring to specific children or specific elders.
+
+### 23. Missing *a* before a job
+
+**Wrong:** *He is engineer.*
+**Right:** *He is an engineer.*
+
+## Pronunciation errors that affect writing
+
+### 24. *Then* vs *than*
+
+**Wrong:** *She is taller then me.*
+**Right:** *She is taller than me.*
+
+*Than* is for comparisons. *Then* is for time or sequence.
+
+### 25. *Their / there / they're*
+
+**Wrong:** *Their going to the shop.*
+**Right:** *They're going to the shop.*
+
+- *Their* = belongs to them.
+- *There* = that place.
+- *They're* = they are.
+
+These three sound identical in speech. Writing mixes them up.
+
+## Culture-specific politeness
+
+Some Sri Lankan politeness patterns translate strangely into English.
+
+### "Please come, come."
+
+Fine in Sinhala or Tamil. In English, saying "come, come" sounds like you're hurrying someone. Just *"please come in"* is clearer.
+
+### "Yes, yes."
+
+Repetition is common in South Asian speech. Native English speakers may read a double "yes" as impatience. One is usually enough.
+
+### Formal titles
+
+In Sri Lanka, calling a superior *"Sir"* even outside work is common. In international English, *"Sir"* can sound stiff or sarcastic. First names after an introduction are usually fine.
+
+## How to actually fix these
+
+### Method 1: Catch yourself in writing
+
+Every time you write an email or message, scan for the ones above. Fix any you find. Over three months, the patterns rewire.
+
+### Method 2: Read your emails out loud
+
+Many errors sound off when spoken. "I have gone yesterday" sounds wrong immediately. Reading silently misses them.
+
+### Method 3: Ask for honest corrections
+
+If you have a colleague or friend whose English is strong, ask them to flag three errors a week. Honest corrections, not polite silence, are how learners improve.
+
+### Method 4: Keep a personal error list
+
+Write down each mistake you make. After a few weeks you'll see which ones repeat. Focus on those.
+
+## What Sri Lankan English gets right
+
+Before this list sounds too critical: Sri Lankan English is a real variety of English with its own history and strengths. Clear pronunciation, generous use of politeness markers, and strong grammar instruction in schools all travel well. The mistakes above are small corrections, not an indictment.
+
+Many international businesses actively value Sri Lankan English because it's comprehensible across accents and tends to be grammatically careful.
+
+## Where Woodberry Place fits
+
+Our Spoken English and Business English classes flag these specific Sri Lankan patterns and replace them with international alternatives through practice, not lectures. By the end of a term, most students stop making the top five errors above entirely.
+
+## Frequently asked questions
+
+**Why do so many Sri Lankans make the same mistakes?**
+
+Most come from direct translation from Sinhala or Tamil, or from older colonial English that got taught in schools and stuck. They're not random — they follow patterns.
+
+**Is Sri Lankan English wrong?**
+
+No. It's a variety of English, like Indian English, American English, or Australian English. In local contexts, Sri Lankan English works perfectly. For international work, some phrases are worth adjusting.
+
+**How quickly can I fix these mistakes?**
+
+Fast — most take weeks, not years. The key is noticing them. Once you know what to look for, your brain catches them automatically.
+
+**Which of these are most important to fix first?**
+
+For CVs and job interviews: *pass out*, *prepone*, *do the needful*. For emails: *revert back*, *discuss about*. For speaking: *myself [name]*, *open the light*.
+
+---
+
+Want these specific patterns corrected in your writing and speaking? [See our Business English programme](https://woodberryplace.com/courses/spoken-english/) or contact us to join a trial class.
+
+
+---
+
+<!-- SOURCE FILE: blog-28-phrasal-verbs.md -->
+
+---
+title: "Phrasal Verbs for Sri Lankan Learners: The Top 30"
+meta_description: "Thirty high-frequency English phrasal verbs explained with meanings, examples, and the Sri Lankan errors to watch for. Build fluency fast."
+slug: phrasal-verbs-sri-lankan-learners
+primary_keyword: phrasal verbs for sri lankan learners
+secondary_keywords: [common phrasal verbs, english phrasal verbs list, phrasal verbs sri lanka, english fluency]
+target_audience: intermediate learners, students, working adults
+word_count_target: 1400
+---
+
+# Phrasal Verbs for Sri Lankan Learners: The Top 30
+
+Phrasal verbs are the single biggest reason Sri Lankan English learners sound textbook-y instead of natural. We learn *delay* but not *put off*. We learn *invent* but not *come up with*. We learn *investigate* but not *look into*. Native speakers reach for the phrasal verb almost every time.
+
+Here are the 30 you'll hear most — grouped by situation, with examples and the ones Sri Lankan learners usually mix up.
+
+## Why phrasal verbs feel difficult
+
+A phrasal verb is a verb + preposition or particle (*look up, put off, give in*) that together mean something you can't always guess from the parts. *Give up* has nothing to do with giving. *Put off* has nothing to do with putting.
+
+That's the challenge: you have to learn each one as a single unit, like a word. The payoff is huge — once you have 30 or 40 common ones, your English sounds much more natural.
+
+## Daily life (10)
+
+### 1. **Get up** — leave bed
+
+*"I get up at 6 every morning."*
+
+### 2. **Wake up** — stop sleeping
+
+*"I wake up before my alarm these days."*
+
+Note: *wake up* is the moment your eyes open. *Get up* is the moment you leave bed.
+
+### 3. **Turn on / off** — start / stop a machine
+
+*"Turn off the fan before you leave."*
+
+(Not *open* and *close* — that's a common Sri Lankan mix-up.)
+
+### 4. **Switch on / off** — same as turn on / off
+
+*"Please switch off the lights."*
+
+### 5. **Pick up** — collect, lift, or learn
+
+- *"I'll pick up the children at 4pm."*
+- *"She picked up French in Paris."*
+
+### 6. **Drop off** — leave someone or something somewhere
+
+*"Can you drop me off at the station?"*
+
+### 7. **Run out of** — use up the supply
+
+*"We've run out of milk."*
+
+### 8. **Fill up** — fill completely
+
+*"I need to fill up the car."*
+
+### 9. **Take off** — remove (clothes) or begin flight
+
+- *"Please take off your shoes."*
+- *"The plane takes off at 10."*
+
+### 10. **Put on** — wear
+
+*"Put on your jacket — it's cold."*
+
+## Work and study (10)
+
+### 11. **Look up** — find information
+
+*"I'll look up the meaning in the dictionary."*
+
+### 12. **Look into** — investigate
+
+*"The manager is looking into the complaint."*
+
+### 13. **Figure out** — understand or solve
+
+*"I can't figure out this problem."*
+
+### 14. **Come up with** — invent, generate an idea
+
+*"She came up with a great idea for the project."*
+
+### 15. **Put off** — postpone
+
+*"Let's put off the meeting until next week."*
+
+(Not *postpone the meeting until next week to postpone* — just *put off*.)
+
+### 16. **Carry out** — perform, execute
+
+*"The team carried out the survey."*
+
+### 17. **Set up** — establish, arrange
+
+*"They set up a new office in Matara."*
+
+### 18. **Hand in** — submit
+
+*"Hand in your homework by Friday."*
+
+### 19. **Go over** — review
+
+*"Let's go over the notes before the exam."*
+
+### 20. **Work out** — solve, exercise, or end well
+
+- *"We worked out the answer together."*
+- *"I work out at the gym three times a week."*
+- *"Things worked out in the end."*
+
+## Social and emotional (10)
+
+### 21. **Get on with** — have a good relationship
+
+*"I get on well with my cousins."*
+
+(Not *get on well with my brother for a long time* with that specific tense pattern — but the phrase is standard.)
+
+### 22. **Fall out with** — have an argument
+
+*"They've fallen out with each other."*
+
+### 23. **Make up** — reconcile, or invent (a story)
+
+- *"The siblings made up after a week."*
+- *"He made up an excuse for being late."*
+
+### 24. **Catch up** — reach the same level, or hear news
+
+- *"I missed a class — I need to catch up."*
+- *"Let's catch up over coffee."*
+
+### 25. **Hang out** — spend time casually
+
+*"We hang out at the beach every weekend."*
+
+### 26. **Bring up** — raise a child, or raise a topic
+
+- *"She was brought up in Galle."*
+- *"He brought up an interesting point in the meeting."*
+
+### 27. **Calm down** — become less angry
+
+*"Please calm down and tell me what happened."*
+
+### 28. **Cheer up** — become happier
+
+*"Cheer up — tomorrow's another day."*
+
+### 29. **Give up** — stop trying
+
+*"Don't give up — you're close."*
+
+### 30. **Look forward to** — await happily
+
+*"I'm looking forward to the holidays."*
+
+(Note: *look forward to* + -ing form. "I'm looking forward to **seeing** you," not "to **see** you.")
+
+## Transitive vs intransitive — quick note
+
+- **Transitive** phrasal verbs take an object. *Pick up the keys.*
+- **Intransitive** phrasal verbs don't. *The plane took off.*
+
+For many transitive phrasal verbs, you can split them with the object:
+
+- *Pick up the keys* / *Pick the keys up.* Both work.
+- With pronouns, you **must** split: *Pick them up.* (Not *pick up them.*)
+
+## Sri Lankan learner mistakes with phrasal verbs
+
+### 1. Translating word by word
+
+*"Get up"* becomes *"get upwards"* or *"rise upwards"* in direct translation. Learn the phrasal verb as one unit.
+
+### 2. Missing the particle
+
+Dropping *up, off, out, in* is common when speaking fast.
+
+- ✗ "I'll pick you from the airport."
+- ✓ "I'll pick you **up** from the airport."
+
+### 3. Using the wrong particle
+
+- ✗ "Switch on from the light."
+- ✓ "Switch **on** the light." (No *from*.)
+
+### 4. Over-formalising to avoid phrasal verbs
+
+Some learners use *"investigate"* when *"look into"* would sound more natural. For speech and emails, the phrasal verb usually fits better.
+
+### 5. *Pass out* for graduate
+
+- ✗ "I passed out from Mahinda College."
+- ✓ "I graduated from Mahinda College."
+
+In international English, *pass out* means to faint.
+
+## How to actually learn phrasal verbs
+
+### Method 1: Learn 5 a week, use them
+
+Pick 5 from the list above. Use each in a real sentence this week — text, email, or conversation. Next week, 5 more. Twelve weeks and you have 60 phrasal verbs you actually use.
+
+### Method 2: Watch and notice
+
+English TV shows and films are thick with phrasal verbs. Pick one episode a week. Write down every phrasal verb you hear. Look up any you don't know. 15 minutes.
+
+### Method 3: Replace one formal word per sentence
+
+When you write, scan for formal-sounding words. Many have a natural phrasal-verb replacement.
+
+- *"We will investigate the issue."* → *"We'll look into the issue."*
+- *"She proposed a new idea."* → *"She came up with a new idea."*
+- *"I will submit the report by Friday."* → *"I'll hand in the report by Friday."*
+
+### Method 4: Avoid memorisation lists
+
+Lists of 500 phrasal verbs are the single worst way to learn them. The brain forgets faster than it learns from a list. Context sticks.
+
+## Where phrasal verbs show up
+
+### In IELTS Speaking
+
+Using natural phrasal verbs lifts your Lexical Resource band. "I pick up new words quickly" sounds more natural than "I acquire new vocabulary quickly."
+
+### In job interviews
+
+Phrasal verbs make you sound less rehearsed, more conversational. "I handled the pushback" sounds stronger than "I managed the resistance."
+
+### In O/L and A/L English
+
+Appear in comprehension, vocabulary, and writing sections. Students who recognise them score better.
+
+### In everyday life
+
+If you work in tourism, hospitality, or any customer-facing role, phrasal verbs are what guests speak.
+
+## Where Woodberry Place fits
+
+Our Spoken English and IELTS classes build phrasal verbs into every lesson through conversation practice, not through list memorisation. Students who stick with a class for a term typically add 40–60 active phrasal verbs to their everyday English.
+
+## Frequently asked questions
+
+**Are phrasal verbs informal?**
+
+Some are, some aren't. *Pick up, look into, carry out, work out, hand in* are fine in formal writing. *Hang out, chill out, mess up* are more casual.
+
+**Can I avoid phrasal verbs completely?**
+
+In writing, yes. In speaking, no — you'll sound unnatural without them. English speakers reach for the phrasal verb in most conversations.
+
+**Why do phrasal verbs have multiple meanings?**
+
+Many developed over centuries with slight shifts in meaning. *Make up* can mean reconcile, invent, or apply makeup — three different meanings in different contexts.
+
+**Which are the most important to learn first?**
+
+The 30 above cover most daily situations. After that, work-specific phrasal verbs for your industry (*follow up, touch base, reach out* for office work) come next.
+
+---
+
+Want phrasal verbs built into real conversation practice? [See our Spoken English classes](https://woodberryplace.com/courses/spoken-english/) or contact us about joining a batch.
+
+
+---
+
+<!-- SOURCE FILE: blog-29-english-idioms-sri-lanka.md -->
+
+---
+title: "English Idioms You'll Actually Hear in Sri Lanka"
+meta_description: "Twenty-five common English idioms used in Sri Lanka — with meanings, examples, and the ones to avoid in formal writing."
+slug: english-idioms-sri-lanka
+primary_keyword: english idioms sri lanka
+secondary_keywords: [common english idioms, idiomatic expressions english, english fluency sri lanka, english expressions]
+target_audience: intermediate learners
+word_count_target: 1300
+---
+
+# English Idioms You'll Actually Hear in Sri Lanka
+
+Most idiom lists online include phrases nobody actually says. *"Bob's your uncle"*? *"It's raining cats and dogs"*? Not useful. This list is different — 25 idioms you'll genuinely hear in Sri Lankan English, workplaces, and conversations with visitors.
+
+## What idioms are, and why they matter
+
+An idiom is a phrase whose meaning isn't obvious from its parts. *Break a leg* means "good luck." *Hit the roof* means "get very angry." You can't translate word by word.
+
+Learning common idioms does three things:
+
+- Makes your English sound natural.
+- Helps you understand films, TV, and native speakers.
+- Avoids confusion when someone uses one with you.
+
+## Common idioms used in Sri Lanka
+
+### 1. **A piece of cake** — very easy
+
+*"The exam was a piece of cake."*
+
+### 2. **Hit the books** — study hard
+
+*"IELTS is next month — time to hit the books."*
+
+### 3. **Burn the midnight oil** — work late into the night
+
+*"She's been burning the midnight oil before the presentation."*
+
+### 4. **Call it a day** — stop working for the day
+
+*"Let's call it a day — we've done enough."*
+
+### 5. **Hit the nail on the head** — exactly right
+
+*"You hit the nail on the head — that's the real problem."*
+
+### 6. **Pull someone's leg** — joke with them
+
+*"I was just pulling your leg — don't take it seriously."*
+
+### 7. **Under the weather** — feeling unwell
+
+*"I'm feeling a bit under the weather today."*
+
+### 8. **Butter someone up** — flatter to get a favour
+
+*"He's just buttering up the boss for a promotion."*
+
+### 9. **Spill the beans** — reveal a secret
+
+*"Don't spill the beans about the surprise party."*
+
+### 10. **Break the ice** — start conversation in a new group
+
+*"I told a joke to break the ice at the meeting."*
+
+### 11. **Cost an arm and a leg** — very expensive
+
+*"That phone costs an arm and a leg."*
+
+### 12. **In the same boat** — in the same situation
+
+*"We're all in the same boat — nobody understood the lecture."*
+
+### 13. **Let the cat out of the bag** — accidentally reveal
+
+*"He let the cat out of the bag about the new office."*
+
+### 14. **Cut corners** — do something cheaply or poorly
+
+*"Don't cut corners on the foundation — it'll cost you later."*
+
+### 15. **Bite the bullet** — do something unpleasant that must be done
+
+*"I'll have to bite the bullet and tell him the news."*
+
+### 16. **Get cold feet** — lose courage at the last minute
+
+*"He got cold feet and didn't go to the interview."*
+
+### 17. **Once in a blue moon** — very rarely
+
+*"We see each other once in a blue moon these days."*
+
+### 18. **On the same page** — in agreement
+
+*"Let's make sure we're on the same page before the meeting."*
+
+### 19. **Kill two birds with one stone** — do two things at once
+
+*"I kill two birds with one stone by jogging while listening to lectures."*
+
+### 20. **Miss the boat** — miss an opportunity
+
+*"If you don't apply now, you'll miss the boat."*
+
+### 21. **See eye to eye** — agree with someone
+
+*"My brother and I don't see eye to eye on politics."*
+
+### 22. **Break even** — neither profit nor loss
+
+*"The business is just breaking even now."*
+
+### 23. **Keep an eye on** — watch carefully
+
+*"Keep an eye on the pot — the rice is almost done."*
+
+### 24. **Ring a bell** — sound familiar
+
+*"That name rings a bell, but I can't place it."*
+
+### 25. **Take it with a grain of salt** — don't fully believe
+
+*"Take what he says with a grain of salt — he exaggerates."*
+
+## Idioms that ARE used in Sri Lanka but sound outdated
+
+Some idioms were common in colonial English and stuck around in Sri Lanka longer than elsewhere. They're not wrong, just dated:
+
+- *"At the eleventh hour"* — at the last minute. Still used, but "at the last minute" is more natural.
+- *"Beat about the bush"* — avoid the main point. Fine, but slightly dated in modern speech.
+- *"Gentle as a lamb"* — very gentle. Still understood, but sounds literary.
+
+Use these if you like — they're correct — but newer alternatives sound more current.
+
+## Idioms NOT to use in Sri Lanka's professional English
+
+Some idioms are regional (American or British specifically) and will confuse Sri Lankan listeners or readers:
+
+- *"Hit a home run"* — American baseball reference. Not widely understood here.
+- *"Bob's your uncle"* — very British, sounds old-fashioned.
+- *"The whole nine yards"* — American, meaning unclear without context.
+- *"The ball is in your court"* — fine, widely understood.
+
+Rule of thumb: if you had to pause and explain the idiom to a Sri Lankan colleague, it's probably not the right one for a local email.
+
+## Where to use idioms — and where to avoid them
+
+### Use them in
+
+- Casual conversation.
+- Informal emails to colleagues.
+- Social media.
+- IELTS Speaking (lifts your Lexical Resource — but only use ones you're comfortable with).
+
+### Avoid them in
+
+- Formal academic writing.
+- IELTS Writing Task 2 (overusing idioms can lower your band).
+- Business emails to clients you don't know well.
+- Legal or technical documents.
+- Any communication with non-native English speakers who may not recognise them.
+
+## How to learn idioms naturally
+
+### Method 1: Context first, meaning second
+
+If you read an idiom in a story and guess the meaning from context, it sticks. If you memorise it from a list, it doesn't.
+
+### Method 2: Three a week, used three times
+
+Pick three idioms. Use each one three times in different contexts over a week. The ones that feel natural stay. The others drop away.
+
+### Method 3: Films and TV
+
+English-language shows are packed with idioms. Pick a 30-minute episode. Note any idiom you hear. Look up the ones you don't know. One show a week builds a serious collection over months.
+
+### Method 4: Don't force them
+
+Nothing sounds worse than an idiom used wrong. Better to leave it out than to say "it's raining cats and horses" or "cost an arm and a tooth."
+
+## Idioms in IELTS Speaking
+
+Band 7+ Speaking rewards idiomatic expressions — but only when used accurately. Two or three well-placed idioms in a Speaking test lift your band. Six awkward ones drop it.
+
+Safer bets for IELTS:
+
+- *"A piece of cake"*
+- *"On the same page"*
+- *"Keep an eye on"*
+- *"Ring a bell"*
+- *"Once in a blue moon"*
+
+These are common, clear, and hard to use wrong.
+
+## Where Woodberry Place fits
+
+Our Spoken English and IELTS classes build idioms into conversation practice gradually. Students pick them up in context, not through list memorisation — which is the only way they actually stick.
+
+## Frequently asked questions
+
+**Are idioms the same in all varieties of English?**
+
+No. Many are shared, but some are specific to British, American, Australian, or Indian English. Stick to idioms you've actually heard used in Sri Lanka or widely in international English.
+
+**Can I use Sinhala or Tamil idioms translated into English?**
+
+Usually no. Idioms don't translate — they confuse. A literal translation of *"ඇට්ට ළඟ රත්තරං"* makes no sense in English.
+
+**How many idioms do I need to know?**
+
+For comfortable everyday fluency, about 50. For strong IELTS speaking, around 30 used accurately.
+
+**Do idioms help with reading comprehension?**
+
+Yes — a lot. Newspaper headlines and editorials rely on idioms heavily. Knowing the common ones unlocks faster reading.
+
+---
+
+Want idioms built into natural conversation practice? [See our Spoken English classes](https://woodberryplace.com/courses/spoken-english/) or get in touch about a trial lesson.
+
+
+---
+
+<!-- SOURCE FILE: blog-30-english-collocations.md -->
+
+---
+title: "Collocations: Why 'Fast Food' Not 'Quick Food'"
+meta_description: "What English collocations are, why they matter more than grammar, and the top pairs Sri Lankan learners should know to sound natural."
+slug: english-collocations-guide
+primary_keyword: english collocations guide
+secondary_keywords: [english word pairs, collocations for english learners, make vs do english, english fluency]
+target_audience: intermediate and advanced learners
+word_count_target: 1300
+---
+
+# Collocations: Why "Fast Food" Not "Quick Food"
+
+We say *fast food*, not *quick food*. We say *heavy rain*, not *strong rain*. *Make a mistake*, not *do a mistake*. There's no grammar rule for this — the words just go together. Native speakers know these pairs by feel. Learners don't, and that's the biggest reason intermediate English can sound "off" even when the grammar is perfect.
+
+These word pairings are called **collocations**. Here's what they are, why they matter, and the ones Sri Lankan learners most need to know.
+
+## What a collocation is
+
+A collocation is a pair of words that English speakers habitually use together. There's often a less-common alternative that means the same thing — but native speakers never use it.
+
+- ✓ *Make a decision* ✗ *Do a decision*
+- ✓ *Heavy traffic* ✗ *Strong traffic*
+- ✓ *Fast food* ✗ *Quick food*
+- ✓ *Take a shower* ✗ *Make a shower*
+- ✓ *High expectations* ✗ *Big expectations*
+
+Grammar is correct in all the wrong versions. They still sound wrong — because collocations aren't about grammar.
+
+## Why collocations matter more than you think
+
+### 1. They're the biggest marker of natural English
+
+You can have perfect grammar and still sound foreign because your word pairings are off. Fix your collocations and your English suddenly sounds fluent, even if nothing else changes.
+
+### 2. They matter for IELTS
+
+The Writing and Speaking bands mark *Lexical Resource* — and collocation accuracy is a big part of that. Band 7 requires you to use collocations naturally.
+
+### 3. They matter for business English
+
+*Reach a decision, meet a deadline, raise an issue, break a promise.* These are the default pairs in office English. Using the wrong one marks you as a non-native speaker.
+
+### 4. They matter for reading speed
+
+When you know collocations, your eye glides over the familiar pair instead of processing each word. Reading speeds up.
+
+## The high-frequency collocations every learner needs
+
+### Make vs Do (the biggest trap)
+
+*Make* and *do* have no clear rule — you memorise which goes with which.
+
+**Make:**
+- make a decision, make a mistake, make a plan, make an effort, make progress, make noise, make friends, make money, make breakfast / lunch / dinner, make a call
+
+**Do:**
+- do homework, do the dishes, do business, do a favour, do your best, do exercise, do research, do the shopping, do a course
+
+### Take
+
+- take a shower, take a bath, take a break, take a nap, take notes, take a photo, take a look, take a chance, take advice, take medicine, take an exam
+
+### Have
+
+- have breakfast / lunch / dinner, have a meeting, have a shower (also acceptable), have a look, have a chance, have fun, have a problem, have a question
+
+### Get
+
+- get married, get divorced, get lost, get angry, get better, get ready, get started, get a job, get a message
+
+### Weather
+
+- heavy rain, strong wind, bright sunshine, thick fog, deep snow, extreme heat
+
+### Traffic and travel
+
+- heavy traffic, light traffic, a long journey, a short flight, a direct flight, a connecting flight, miss the bus, catch the train
+
+### Money
+
+- save money, spend money, earn money, lose money, waste money, borrow money, lend money, pay cash, open an account, close an account
+
+### Work and study
+
+- attend a meeting, miss a class, submit a report, meet a deadline, raise an issue, solve a problem, reach a conclusion, give a presentation, take a course
+
+### Emotions
+
+- feel tired, feel happy, feel sick, strong feelings, deep regret, mixed feelings, a quick temper
+
+### Health
+
+- catch a cold, have a headache, take medicine, see a doctor, make an appointment, strict diet, serious illness
+
+## Collocations that trip up Sri Lankan learners
+
+### 1. *Make vs do mistake*
+
+- ✓ Make a mistake.
+- ✗ Do a mistake.
+
+### 2. *Say vs tell*
+
+- ✓ Say something to someone / Tell someone something.
+- *Say* takes the thing said. *Tell* takes the person.
+
+### 3. *Watch vs see vs look at*
+
+- Watch a movie, a match, TV. (Follow something that moves over time.)
+- See a friend, a doctor, a film. (Meet or witness.)
+- Look at a picture, the sky. (Direct attention.)
+
+### 4. *Listen vs hear*
+
+- Listen to music. (Active.)
+- Hear a noise. (Happens to you.)
+
+### 5. *Bring vs take*
+
+- Bring = towards the speaker. (*Bring the book to me.*)
+- Take = away from the speaker. (*Take the book to him.*)
+
+### 6. *Lend vs borrow*
+
+- Lend = give for a short time. (*I can lend you a pen.*)
+- Borrow = receive for a short time. (*Can I borrow a pen?*)
+
+Note the direction. "Can you borrow me a pen?" is wrong — should be "lend me."
+
+## How to learn collocations
+
+### Method 1: Chunks, not words
+
+Stop learning single words. Learn phrases. Not *decide* — learn *make a decision* and *reach a decision*. Not *problem* — learn *solve a problem* and *face a problem*.
+
+### Method 2: Collocation notebooks
+
+Keep a small notebook. When you see a strong-sounding pair in reading, write it down with its context.
+
+- "She made a quick decision."
+- "They faced a serious problem."
+- "The company reached an agreement."
+
+A few weeks of this builds a personal library of natural phrases.
+
+### Method 3: Replace weak verbs
+
+Scan your writing for weak verbs like *do, get, have, make, say, go, give*. Ask if there's a more precise collocation.
+
+- "She did good at the exam." → "She did well in the exam." → better: "She performed well in the exam."
+- "He got the award." → "He won the award."
+- "They had a party." → "They threw a party." / "They held a party."
+
+### Method 4: Read widely
+
+Collocations are everywhere in English news, novels, and business writing. 15 minutes of reading a day is the easiest collocation learning there is.
+
+## Where collocations show up in exams
+
+### IELTS
+
+Writing: *reach a conclusion, raise a concern, address an issue, take measures, implement a policy* — all academic collocations that lift your band.
+
+Speaking: *make a difference, keep in touch, take a chance, have a point* — conversational collocations that mark natural fluency.
+
+### O/L and A/L English
+
+Collocations show up in gap-fills, writing, and dialogue questions. Students who've read widely do better here almost automatically.
+
+### Business English
+
+The collocations above (*reach a decision, meet a deadline, raise an issue*) are the vocabulary of professional English. Learn them before the fancier words.
+
+## A quick collocation self-test
+
+Pick the natural pairing:
+
+1. (make / do) a mistake
+2. (strong / heavy) rain
+3. (fast / quick) food
+4. (take / have) a photo
+5. (say / tell) someone a secret
+6. (borrow / lend) me 500 rupees
+7. (catch / get) a cold
+8. (make / do) homework
+9. (strong / big) coffee
+10. (ride / drive) a bicycle
+
+Answers: 1. make 2. heavy 3. fast 4. take 5. tell 6. lend 7. catch 8. do 9. strong 10. ride (a bicycle). Drive is for cars.
+
+## Where Woodberry Place fits
+
+Our Spoken English and IELTS classes build collocation practice into weekly writing feedback. Students see their weak pairings replaced with natural ones, week by week — which is how collocations actually stick.
+
+## Frequently asked questions
+
+**Is there a rule for which words collocate?**
+
+Mostly no. A few patterns exist (strong + nouns, heavy + weather), but the majority are memory. The good news: the most important collocations are a manageable list, maybe 300–500.
+
+**Which collocations should I learn first?**
+
+The *make / do / take / have / get* collocations above. They cover a huge chunk of daily English.
+
+**Do collocations differ between British and American English?**
+
+Slightly. *Take a shower* (American) vs *have a shower* (British, though both are fine now). *Do the dishes* vs *wash up*. Mostly minor.
+
+**Can I translate collocations from Sinhala or Tamil?**
+
+Usually no. Collocations are language-specific. A literal translation almost always sounds wrong in English.
+
+---
+
+Want collocation errors caught in your writing every week? [See our IELTS programme](https://woodberryplace.com/courses/ielts/) or [Business English classes](https://woodberryplace.com/courses/spoken-english/).
+
+
+---
+
+<!-- SOURCE FILE: blog-31-english-pronunciation-sri-lanka.md -->
+
+---
+title: "The English Sounds Sri Lankan Speakers Struggle With"
+meta_description: "A practical pronunciation guide for Sri Lankans — the specific sounds that trip us up, why they do, and how to fix them with daily practice."
+slug: english-pronunciation-sri-lanka
+primary_keyword: english pronunciation sri lanka
+secondary_keywords: [english accent sri lanka, pronunciation tips, speak english clearly, english sounds]
+target_audience: Sri Lankan English learners of all ages
+word_count_target: 1400
+---
+
+# The English Sounds Sri Lankan Speakers Struggle With
+
+Sri Lankan English is clear — mostly. But a handful of specific sounds give almost every learner trouble, and they're the same sounds whether you're from Jaffna, Colombo, or Matara. These aren't accent issues (an accent is fine and normal). They're sounds that can make the difference between being understood and being asked to repeat yourself.
+
+Here's which sounds, why they're hard, and how to fix each one.
+
+## Why some sounds are hard for us
+
+Sinhala and Tamil have their own sound systems. English has sounds that don't exist in either, or that exist in slightly different versions. When you speak a new language, your mouth defaults to the closest sound from your first language — usually not the exact right one.
+
+Three things fix this:
+
+1. **Hearing the difference first.** You can't make a sound you can't hear.
+2. **Feeling where your tongue and lips go.** English sounds require specific positions.
+3. **Slow practice, then fast practice.** Slow builds the muscle memory. Fast builds the natural flow.
+
+## Sound 1: V vs W
+
+The classic. *Van* and *wan* sound identical to many Sri Lankan speakers.
+
+**V** — upper teeth touch the lower lip. Air escapes with a buzz. *Van, vote, very, village, voice.*
+
+**W** — lips round into a small circle. No teeth touch. *Want, wait, water, world, wise.*
+
+### Practice pairs
+
+- *vine / wine*
+- *vet / wet*
+- *very / wary*
+- *vest / west*
+- *vine / whine*
+
+Say each pair out loud. Touch your lower lip with your upper teeth for V, then round your lips for W. Feel the switch. Record yourself.
+
+## Sound 2: TH
+
+Two TH sounds — both tricky.
+
+### Voiceless TH
+
+Tongue tip touches the back of the upper teeth. Air flows past. No voice.
+
+*Think, thank, thin, thing, thought, through.*
+
+### Voiced TH
+
+Same tongue position, but your voice is on.
+
+*This, that, they, there, them, those, mother, father.*
+
+Most Sri Lankan speakers replace TH with D or T.
+
+- *Think* → "tink"
+- *This* → "dis"
+- *Thank you* → "tank you"
+
+The fix: stick your tongue slightly between your teeth. Yes, it feels silly. That's where TH lives.
+
+### Practice
+
+- *this that these those* — a daily mantra.
+- *Think of three things.*
+- *The thirty-third thing.*
+
+Daily. For two weeks.
+
+## Sound 3: P vs F
+
+Most Sri Lankan speakers handle P and F fine, but there's one trap:
+
+**P** at the start of a word has a small puff of air in English. In Sinhala and Tamil, it doesn't.
+
+*Pen* in English has a slight *puh* before the vowel. Without the puff, it sounds like *ben* to a native listener.
+
+### Practice
+
+Hold a thin piece of paper close to your mouth. Say *pen, pie, pot, pat*. The paper should move. If it doesn't, you're not aspirating.
+
+## Sound 4: Short vs long vowels
+
+English makes a meaningful difference between short and long vowels. Sinhala and Tamil don't always.
+
+### Short I vs long EE
+
+- *ship* (short) vs *sheep* (long)
+- *live* (short) vs *leave* (long)
+- *bit* (short) vs *beat* (long)
+
+### Short A vs long E / UH
+
+- *man* (short) vs *men* (short, different vowel)
+- *bat* vs *bet* vs *but* — three different vowels, often collapsed into one by Sri Lankan speakers.
+
+### Fix
+
+Listen to recorded minimal pairs on YouTube — type "minimal pairs English pronunciation." Say each pair aloud. The difference is usually in how long you hold the sound and the position of your mouth.
+
+## Sound 5: Word endings
+
+Sri Lankan English often softens or drops final consonants:
+
+- *walked* becomes "walk"
+- *books* becomes "book"
+- *fast* becomes "fas"
+
+For listeners outside Sri Lanka, this is the single most common comprehension issue. They miss tense endings (*ed, s*) and lose track of what you're saying.
+
+### Fix
+
+Slow down. Over-pronounce final consonants when practising.
+
+*"Yesterday I walkED to the shop and bought threeeeeeeee bookS."*
+
+Exaggerate in practice. In real speech it'll settle at the right level.
+
+## Sound 6: Stress on the wrong syllable
+
+English puts stress on specific syllables in each word. Sri Lankan English sometimes stresses the wrong one.
+
+- *develop* — stress on the second syllable (*de-VEL-op*), not the first.
+- *photograph* — stress on the first (*PHO-to-graph*).
+- *photographer* — stress on the second (*pho-TOG-ra-pher*).
+- *economy* — stress on the second (*e-CON-o-my*).
+
+Using the wrong stress can make a word unrecognisable even if every sound is right.
+
+### Fix
+
+Any online dictionary shows stress with a mark. Look up new words and check stress. After a few months this becomes automatic.
+
+## Sound 7: R
+
+Different versions of R exist across English. The safest is a soft, barely-there R — closer to British English than American.
+
+Sri Lankan R is sometimes too strong (rolled) or too soft (dropped).
+
+- *Water* — not "wataR" (strong) and not "wata" (dropped). Soft R at the end.
+- *Red* — soft, not rolled.
+
+For most Sri Lankan learners, aiming for standard British R is simplest. Lips slightly rounded, tongue not touching.
+
+## Sound 8: Intonation
+
+Not a sound exactly — the music of the sentence. Sri Lankan English can sound flat or sing-song to outside ears.
+
+Key patterns:
+
+- **Statements** fall at the end: *"I live in Matara."* (Voice drops on "Matara.")
+- **Yes/no questions** rise at the end: *"Are you ready?"* (Voice rises on "ready.")
+- **Wh- questions** fall at the end: *"Where do you live?"* (Voice drops on "live.")
+- **Lists** rise on each item, fall on the last: *"I bought rice, dhal, vegetables, and fish."*
+
+Record yourself asking three types of question. Listen. If every question sounds the same, work on this.
+
+## How to practise pronunciation without a teacher
+
+### Method 1: Shadow-reading
+
+Pick a 1-minute English clip (a news reader is best — clear and slow). Listen once. Then play it again and read along out loud, matching the pace. Then try without looking. Do this once a day for 10 minutes.
+
+### Method 2: Record and compare
+
+Record yourself saying 5 sentences. Listen back. Compare with a native speaker version (YouTube, podcast, film clip). The gap is your work.
+
+### Method 3: Minimal pairs
+
+Find a minimal pairs list online (ship/sheep, bat/bet, live/leave). Work through 10 pairs a day until you can hear and say them accurately.
+
+### Method 4: Mirror practice
+
+Watch your mouth in a mirror while saying difficult sounds. For TH, you should see your tongue tip. For V, your top teeth should touch your lower lip. Visual feedback matters.
+
+## What NOT to do
+
+- **Don't try to lose your accent entirely.** It's unnecessary and almost impossible. Clear Sri Lankan English is a perfectly good target.
+- **Don't mimic American accents from films.** Sounds forced and inconsistent when you're tired.
+- **Don't speak too fast to "sound fluent."** Fast and unclear is worse than slower and precise.
+- **Don't compare yourself to native speakers.** Compare yourself to where you were six months ago.
+
+## Where Woodberry Place fits
+
+Our Spoken English classes build pronunciation practice into every lesson — recording students, playing back, and targeting the specific sounds each student struggles with. Pronunciation is one of the fastest-improving areas with dedicated practice.
+
+## Frequently asked questions
+
+**Can adults change their pronunciation?**
+
+Yes — just slower than children. Specific sounds can be fixed at any age with focused practice. Full accent change is much harder but also unnecessary.
+
+**Should I learn American or British pronunciation?**
+
+For Sri Lanka, British is slightly more common and consistent with what's taught in schools. For international business, either works — pick one and stick with it.
+
+**Why do I understand English on TV but not in person?**
+
+TV speakers slow down for the audience. Real speakers don't. Shadow-reading helps bridge this gap faster than passive listening.
+
+**Is the accent I have now going to affect my IELTS Speaking score?**
+
+Only if it affects comprehension. Band 7 rewards clarity, not accent reduction. A clear Sri Lankan accent regularly scores Band 7+ in Speaking.
+
+---
+
+Want targeted pronunciation practice with recorded feedback? [See our Spoken English classes](https://woodberryplace.com/courses/spoken-english/) or get in touch about joining a batch.
+
+
+---
+
+<!-- SOURCE FILE: blog-32-v-w-pronunciation.md -->
+
+---
+title: "V and W in English: How to Tell Them Apart"
+meta_description: "A focused guide on the V and W sounds in English — the single biggest pronunciation hurdle for Sri Lankan speakers — with daily drills that fix it fast."
+slug: v-w-pronunciation-english
+primary_keyword: v w pronunciation english
+secondary_keywords: [v sound vs w sound, english pronunciation sri lanka, pronunciation drills, speak clear english]
+target_audience: all Sri Lankan English learners
+word_count_target: 1200
+---
+
+# V and W in English: How to Tell Them Apart
+
+Of all the English sounds Sri Lankan speakers mix up, V and W is the most famous. *Van* and *wan* sound identical. *Vote* and *wrote* come out the same. *Very well* turns into *wery vell*. The sounds exist in English as two very different things, but in Sinhala and Tamil the distinction isn't as sharp.
+
+Here's how to tell them apart — and more importantly, how to say them so they're different.
+
+## Why they get mixed up
+
+In Sinhala and Tamil, there's a sound close to a soft V/W that sits somewhere between the two English sounds. Most Sri Lankans use this neutral sound for both, which is why *van* and *wan* come out identical.
+
+In English, V and W are produced in completely different ways. Once you know what your mouth should do for each, the fix is mechanical.
+
+## Making the V sound
+
+**Mouth position:** your upper teeth gently touch your lower lip.
+
+**Airflow:** air pushes between the teeth and lip, creating a buzzing sound.
+
+**Voice:** on. V is a voiced consonant — your throat should vibrate.
+
+**Try it:** put your finger on your throat and say *vvvvv* for five seconds. You should feel vibration. If not, you're saying F (voiceless), not V.
+
+### V words to practise
+
+- *van, very, voice, vote, visit, village, victory, violet*
+- *river, over, seven, driver, oven, lover*
+- *give, live, love, five, have, drive, arrive*
+
+Say each word slowly. Touch your top teeth to your lower lip at the V. Feel the buzz.
+
+## Making the W sound
+
+**Mouth position:** round your lips into a small circle, like you're about to blow out a candle.
+
+**Airflow:** air passes through the rounded lips smoothly.
+
+**Voice:** on. W is also voiced.
+
+**Teeth:** no teeth touching anywhere. This is the biggest difference.
+
+**Try it:** round your lips, then say *wwwww* while sliding into the next sound. Your lips should start closed and small, then open as the word continues.
+
+### W words to practise
+
+- *want, wait, water, world, wise, winter, work, warm*
+- *away, between, however, question, reward, sandwich*
+- *wonder, window, woman, wedding, weather, wake*
+
+Watch your lips in a mirror. They should round noticeably at the start of each word.
+
+## The pair test
+
+Say these pairs slowly, feeling the switch between teeth-on-lip (V) and rounded lips (W):
+
+- vine / wine
+- vet / wet
+- vest / west
+- very / wary
+- veil / wail
+- verse / worse
+- vine / whine
+- vow / wow
+- vain / wane
+- V (the letter) / we
+
+Say each pair five times. Record yourself. Play it back.
+
+## Common mistakes to watch for
+
+### 1. Saying V with rounded lips
+
+You've done half of each sound and neither correctly. If you're rounding your lips for V, it'll come out somewhere between V and W.
+
+### 2. Saying W with teeth touching
+
+Same problem the other way. W has no teeth contact.
+
+### 3. Dropping the buzz
+
+V without vibration becomes F. "Very" becomes "ferry." Keep the voice on.
+
+### 4. Doing the same sound for both
+
+The most common pattern. Both come out as a soft, weak version that confuses listeners. If you catch yourself, slow down and pronounce each one exaggeratedly.
+
+## Daily 5-minute drill
+
+Five minutes a day for two weeks fixes most V/W confusion.
+
+- **Minute 1:** warm up with *vvvvv* (teeth on lip, buzzing) and *wwwww* (rounded lips, smooth).
+- **Minute 2:** five V words, slowly. *Very, voice, visit, village, victory.*
+- **Minute 3:** five W words, slowly. *Want, water, world, wonder, winter.*
+- **Minute 4:** ten V/W pair sentences:
+  - "I want very fresh water."
+  - "We visited a lovely village."
+  - "The winter was very cold."
+  - "Vinod walked away with victory."
+  - "Vinita worked very well."
+  - "We voted on Wednesday."
+  - "A woman in a velvet dress."
+  - "I had a vision while waking up."
+  - "Wild violets grew near the well."
+  - "The wind was very wet."
+- **Minute 5:** record yourself reading all ten. Listen back.
+
+Do this for 10–14 days. Your mouth builds the muscle memory.
+
+## Tongue twisters
+
+Once the basics feel comfortable, try these:
+
+- *Vincent vented his vexation very visibly.*
+- *Wayne went west with wild wild weasels.*
+- *Vicky visited Victor's village last weekend.*
+- *Wally the walrus wears a very warm vest.*
+
+These force your mouth to switch quickly between V and W positions, which builds real-time accuracy.
+
+## When it matters most
+
+- **Job interviews.** First impressions matter. "W/Very happy to meet you" that sounds like "wery" can distract the interviewer.
+- **Phone calls.** Without visual cues, V/W confusion causes miscommunication. "Can I have your name?" "Vikram." "Wikram?"
+- **Spelling words aloud.** "V as in Victor" or "V for Victory" works. Make the habit.
+- **IELTS Speaking.** Not a huge band drag, but clear V/W pushes Pronunciation toward Band 7.
+
+## What NOT to worry about
+
+- **Accent.** Having a Sri Lankan accent is fine. Making V and W distinct is not about accent — it's about being understood.
+- **Perfection.** Occasional slips are normal. Consistent confusion is what you're fixing.
+- **Comparing to American or British speakers.** Many native speakers have regional variations. Your goal is clear distinction, not imitation.
+
+## Where Woodberry Place fits
+
+Our Spoken English classes drill V/W and other common Sri Lankan pronunciation hurdles through recorded exercises. Students see their own improvement by hearing recordings from week one and week eight.
+
+## Frequently asked questions
+
+**Why is V/W so hard specifically for Sri Lankans?**
+
+Because the sound in our first languages sits between the two English sounds. Our mouths default to the neutral version, which English treats as neither sound.
+
+**Will fixing V/W change my whole accent?**
+
+No. You'll still sound Sri Lankan. You'll just be clearly understood on V and W.
+
+**How long until it becomes automatic?**
+
+Two to four weeks of daily 5-minute practice for most adults. Children pick it up faster.
+
+**Does this matter for writing?**
+
+Writing, no — you're spelling the letters. For speaking, yes — enough to affect comprehension in professional and international contexts.
+
+---
+
+Want daily pronunciation practice with real feedback? [See our Spoken English classes](https://woodberryplace.com/courses/spoken-english/) or contact us to try a trial lesson.
+
+
+---
+
+<!-- SOURCE FILE: blog-33-professional-email-writing.md -->
+
+---
+title: "How to Write a Professional Email in English (With Templates)"
+meta_description: "A practical guide to writing professional emails in English for Sri Lankan office workers — structure, templates, and the mistakes that lose readers."
+slug: professional-email-writing-english
+primary_keyword: professional email writing english
+secondary_keywords: [business email templates, email writing english sri lanka, formal email structure, how to write english email]
+target_audience: working adults, students, job seekers
+word_count_target: 1500
+---
+
+# How to Write a Professional Email in English (With Templates)
+
+Most Sri Lankan office workers can write a serviceable email in English. The problem isn't grammar — it's structure, tone, and the specific phrases that make an email sound professional instead of awkward. Fix those and your emails get replies faster, misunderstandings drop, and you look more senior than you are.
+
+Here's the full structure, with templates you can use this week.
+
+## The five parts of a professional email
+
+Every good business email has these five parts, in order:
+
+1. **Subject line** — specific, short, actionable.
+2. **Greeting** — appropriate to the relationship.
+3. **Opening line** — purpose stated upfront.
+4. **Body** — details, grouped logically.
+5. **Closing** — next step + sign-off.
+
+Miss any of these and the email feels off, even if the English is fine.
+
+## Subject lines
+
+The subject line decides whether your email gets read today or tomorrow. Three rules:
+
+- **Specific, not vague.** "Meeting" tells the reader nothing. "Agenda for Thursday's Q3 review meeting" does.
+- **Keyword at the front.** The reader may only see the first 30 characters.
+- **If action is needed, say so.** "Signature needed: client contract" is clearer than "Contract."
+
+### Good vs weak subject lines
+
+| Weak | Better |
+|---|---|
+| Question | Question about the invoice format |
+| Update | Project update — October delivery on track |
+| Important | Urgent: Server downtime Friday 10pm–11pm |
+| Meeting | Can we move Friday's meeting to 3pm? |
+| Documents | Attached: Signed NDA for review |
+
+## Greetings
+
+Match the greeting to the relationship.
+
+### Formal (first contact, external, senior)
+
+- *Dear Mr Perera,*
+- *Dear Ms Fernando,*
+- *Dear Dr Jayawardena,*
+
+Note: *Dear* in English email is fine for professional contexts — it's not overly affectionate.
+
+### Semi-formal (internal, known contact)
+
+- *Hi Chaminda,*
+- *Hello Anoma,*
+
+### Casual (close colleagues)
+
+- *Hi Sampath,* (first name, no title)
+
+### When you don't know the name
+
+- *Dear Sir or Madam,* (very formal, old-fashioned)
+- *Dear [Team name],* — e.g., *Dear Customer Service Team,*
+- *Hello,* — modern, acceptable
+
+Avoid: *Respected Sir* (too deferential for international business), *To whom it may concern* (feels cold and dated).
+
+## Opening lines — state the purpose
+
+The first sentence should say why you're writing. Readers skim; don't make them search.
+
+### Good openers by purpose
+
+- **Making a request:** *"Could you please share the sales report for Q3?"*
+- **Replying to a question:** *"Thank you for your email. To answer your question..."*
+- **Introducing yourself:** *"My name is Dinusha Perera from Woodberry Logistics. I'm writing because..."*
+- **Following up:** *"I'm following up on my email from last Tuesday about the pricing proposal."*
+- **Sending information:** *"Please find attached the signed agreement."*
+
+Avoid: *"I hope this email finds you well"* as the only opening line. It's fine as a warm-up, but needs the purpose line right after.
+
+## The body — group ideas
+
+- **One topic per email** where possible. Two emails with one topic each beat one email with five.
+- **Short paragraphs.** Three sentences max per paragraph. Readers scan.
+- **Bullet points** for lists or action items. They're read, long paragraphs often aren't.
+- **Bold** for the most important point if the email is longer. Don't overuse.
+
+## Closings
+
+The last sentence should say what happens next or what you need.
+
+### If you need a reply
+
+- *"Could you please confirm by Friday?"*
+- *"Let me know if this works for you."*
+- *"I'd appreciate your response by end of day Monday."*
+
+### If no reply is needed
+
+- *"No action needed — just sharing for your awareness."*
+- *"Please let me know if you have any questions."*
+
+### Sign-offs
+
+| Level | Options |
+|---|---|
+| Formal | Yours sincerely, Yours faithfully |
+| Semi-formal | Best regards, Kind regards, Regards |
+| Casual | Thanks, Cheers, Best |
+
+Then your name, your title, and your contact details (phone, company).
+
+## Template 1: Making a request
+
+> **Subject:** Approval needed: October training budget
+>
+> Hi [Manager's name],
+>
+> I'd like to request approval for the October training budget of Rs. 50,000 for the sales team's sales training workshop.
+>
+> Here's a quick summary:
+>
+> - Trainer: [name], [credentials]
+> - Dates: 15–17 October
+> - Attendees: 8 sales staff
+> - Expected outcomes: [one-line result]
+>
+> I've attached the detailed proposal and three trainer quotes for your review. Could you please confirm by end of day Friday so I can lock in the booking?
+>
+> Thanks,
+> [Your name]
+
+## Template 2: Replying to a complaint
+
+> **Subject:** Re: Order #4532 — we're sorry about the delay
+>
+> Dear Mr [Customer name],
+>
+> Thank you for reaching out, and I'm sorry for the delay with your order. I've looked into it, and the shipment was held at our warehouse due to a stock check. That's now resolved.
+>
+> Your order will be dispatched tomorrow morning and you'll receive tracking details by noon. As an apology for the delay, we'll also apply a 10% discount on your next order.
+>
+> Please let me know if there's anything else I can do.
+>
+> Kind regards,
+> [Your name]
+
+## Template 3: Following up without being pushy
+
+> **Subject:** Following up: Proposal from 18 October
+>
+> Hi [Name],
+>
+> I hope you're doing well. I'm following up on the proposal I sent on 18 October regarding [brief description]. I wanted to check if you had any questions or feedback before we move ahead.
+>
+> I'm happy to jump on a short call if that would be easier — I'm free Tuesday and Thursday afternoon.
+>
+> Looking forward to hearing from you.
+>
+> Thanks,
+> [Your name]
+
+## Template 4: Introducing yourself (cold email)
+
+> **Subject:** Introduction from Woodberry Place — collaboration on English training
+>
+> Dear [Name],
+>
+> My name is [Your name] and I'm the [role] at Woodberry Place English Academy in Matara. [Name of mutual contact] suggested we connect regarding [specific topic].
+>
+> [One sentence about what you do.] [One sentence about why it's relevant to them.]
+>
+> Would you be open to a 15-minute call next week to explore whether this could be useful? I'm available Tuesday afternoon or Thursday morning.
+>
+> Thanks for your time.
+>
+> Kind regards,
+> [Your name]
+
+## Common Sri Lankan email mistakes
+
+### 1. Overly formal openings
+
+*"Respected Sir, With reference to the aforementioned subject..."* reads as colonial-era. Keep it current.
+
+### 2. Burying the point
+
+Starting with three paragraphs of context before stating what you want. Reverse the order — state the request, then explain.
+
+### 3. Over-using *revert*
+
+*"I will revert to you tomorrow."* Use *get back to you* or *reply* in international contexts.
+
+### 4. Missing action step
+
+Emails that end "Please find below for your information" without saying whether anything is needed from the reader. Always say what the next step is.
+
+### 5. Too many thank yous
+
+*"Thank you so much for your kind response and prompt attention to this matter."* Once is enough.
+
+### 6. Inconsistent greetings and sign-offs
+
+Starting with *Hi* and ending with *Yours faithfully* is a clash. Match the register — casual with casual, formal with formal.
+
+## Tone: 5 phrases that lift your emails
+
+- *"Thanks for getting back to me so quickly."* — acknowledges the reply.
+- *"Just to confirm,..."* — before summarising what was agreed.
+- *"Let me know if this makes sense."* — invites clarification without being pushy.
+- *"Quick question — ..."* — frames a small ask politely.
+- *"I appreciate your patience with this."* — graceful when you've delayed.
+
+## Email etiquette basics
+
+- **Check the recipient list** before hitting send.
+- **Reply within 24 hours** on working days, even if just to acknowledge.
+- **Use CC sparingly** — adding people who don't need to be there annoys everyone.
+- **Avoid "reply all"** unless truly needed.
+- **Proofread** — mobile autocorrect introduces errors in the wrong places.
+
+## Where Woodberry Place fits
+
+Our Business English programme has a dedicated email writing module, with templates and feedback on your own real emails. Working professionals typically see their reply rates improve within weeks.
+
+## Frequently asked questions
+
+**Is *Dear* too old-fashioned for emails?**
+
+No — *Dear [Name]* is still standard for professional emails. It's warmer than *Hello* but less casual than *Hi*.
+
+**Should I CC my manager on every email?**
+
+No. CC only when they need to see the content. Over-CCing creates inbox noise and signals a lack of confidence.
+
+**How long should a professional email be?**
+
+As short as the content allows — usually 3–8 short paragraphs. If it's longer than 300 words, consider a call or a document attachment instead.
+
+**Can I use emojis in business emails?**
+
+In casual internal emails with colleagues you know well, occasionally. In external or formal emails, no.
+
+---
+
+Want real email feedback and templates for your industry? [See our Business English programme](https://woodberryplace.com/courses/spoken-english/) or contact us about joining the next batch.
+
+
+---
+
+<!-- SOURCE FILE: blog-34-letter-writing-ol-english.md -->
+
+---
+title: "Formal vs Informal Letter Writing for O/L English"
+meta_description: "A clear guide to letter writing for O/L English — formal and informal formats, examples, common mistakes, and the marking scheme expectations."
+slug: letter-writing-ol-english
+primary_keyword: letter writing ol english sri lanka
+secondary_keywords: [formal letter format, informal letter format, ol letter writing, letter writing tips]
+target_audience: Grade 10 and 11 students
+word_count_target: 1400
+---
+
+# Formal vs Informal Letter Writing for O/L English
+
+The letter writing question in O/L English Paper II is usually the first thing students write — and often the first place they lose marks. Not because the English is poor, but because the format is wrong. Get the format right and you walk in with half the marks already in your pocket.
+
+Here's the clear guide for both formal and informal letters, with examples and the exact mistakes to avoid.
+
+## Why format matters so much
+
+The O/L marking scheme splits the letter writing question into:
+
+- **Format** — your address, the recipient's address, the salutation, the sign-off.
+- **Content** — what you actually say.
+- **Language** — grammar, spelling, vocabulary.
+
+Content and language are what you spend time on, but format is where you earn the fast, easy marks. A well-formatted letter with average content scores higher than an excellent letter with wrong format.
+
+## Formal letter format
+
+Formal letters go to people you don't know personally or in an official capacity — the principal, the editor, the manager, a company.
+
+### The structure (top to bottom)
+
+1. **Your address** — top right corner. Three lines usually.
+2. **Date** — below your address, right side.
+3. **Recipient's name and address** — left side, below the date.
+4. **Salutation** — *Dear Sir, Dear Madam, Dear Sir/Madam,* or *Dear Mr/Ms [Name]*
+5. **Subject line** — brief, underlined (optional but adds marks for clarity).
+6. **Body** — three to four short paragraphs.
+7. **Closing phrase** — *Yours faithfully* (if you used Sir/Madam), *Yours sincerely* (if you used a name).
+8. **Signature** — your signature over your printed name.
+
+### Example — complaint letter
+
+> 42, Beach Road,
+> Matara.
+> 15th October 2026
+>
+> The Manager,
+> Sunshine Electronics,
+> Main Street,
+> Matara.
+>
+> Dear Sir,
+>
+> **Subject: Complaint regarding a faulty laptop**
+>
+> I am writing to complain about a laptop (model XYZ) that I purchased from your shop on 1st October 2026. The receipt number is 7823.
+>
+> Within one week of use, the laptop started shutting down randomly. I visited your shop on 10th October and spoke to a staff member, who promised to call me back. I have not received any response in five days.
+>
+> Since the laptop is still under warranty, I would like a full inspection and either a repair or a replacement. I would also appreciate a response within seven days.
+>
+> I look forward to your reply.
+>
+> Yours faithfully,
+> [Signature]
+> Kavindu Perera
+
+### Body paragraphs — what goes where
+
+- **Paragraph 1:** State the purpose clearly. Who you are if relevant. What the letter is about.
+- **Paragraph 2:** Provide the details — when, where, what happened.
+- **Paragraph 3:** State what you want. Be specific.
+- **Paragraph 4 (optional):** Polite close inviting a response.
+
+## Informal letter format
+
+Informal letters go to friends, family, and people you know personally.
+
+### The structure (simpler)
+
+1. **Your address** — top right corner.
+2. **Date** — below the address.
+3. **Salutation** — *Dear Priya, Dear Uncle, My dear sister.*
+4. **Body** — relaxed, conversational, two to four paragraphs.
+5. **Closing phrase** — *Yours lovingly, With love, Your friend,* or similar.
+6. **Signature** — just your first name.
+
+No recipient's address in an informal letter.
+
+### Example — informal letter
+
+> 42, Beach Road,
+> Matara.
+> 15th October 2026
+>
+> Dear Nilakshi,
+>
+> I hope you and your family are all doing well. Sorry I haven't written in a while — the term has been busy with model papers.
+>
+> I wanted to tell you about our school trip to Yala last weekend. We left early Saturday morning and reached by lunchtime. The safari was incredible — we saw elephants, deer, and even a leopard from a distance! I'm attaching a few photos with this letter.
+>
+> How is life in Colombo? Are you still doing your dance classes? Let me know when you're free — maybe we can catch up during the term break.
+>
+> Give my love to your mother and father.
+>
+> Your friend,
+> Kavindu
+
+### Tone — the real difference
+
+- **Formal** — impersonal, factual, polite, structured.
+- **Informal** — personal, warm, flowing, specific questions and details.
+
+An informal letter should sound like a conversation. A formal letter should sound like a business document.
+
+## Common format mistakes that lose marks
+
+### 1. Missing your address
+
+Your address goes in the top right. Missing it alone can cost 2–3 marks.
+
+### 2. Wrong closing phrase
+
+- *Dear Sir* needs *Yours faithfully.*
+- *Dear Mr Perera* (with a name) needs *Yours sincerely.*
+
+Mismatching these is a classic error.
+
+### 3. Including your address in an informal letter
+
+Technically allowed. But if space is tight, prioritise your date — that's the required part.
+
+### 4. Formal tone in an informal letter
+
+- ✗ *Dear Father, I would like to inform you that I have successfully completed my school examinations.*
+- ✓ *Dear Appa, Just wanted to let you know the exams are finally over!*
+
+Match the tone to the relationship.
+
+### 5. One giant paragraph
+
+A letter with no paragraph breaks loses structure marks. Three to four paragraphs minimum.
+
+### 6. Word count mistakes
+
+Most O/L letter questions specify 100–150 words. Writing 60 or 250 both lose marks. Learn roughly how many lines of your handwriting make 120 words.
+
+## Common content mistakes
+
+### 1. Not answering the actual prompt
+
+If the question asks you to complain about late bus service, don't write about why buses are good. Read the prompt twice.
+
+### 2. Making up extreme details
+
+A letter about a stolen bicycle doesn't need "the thief had a gun and the police came in a helicopter." Keep details realistic.
+
+### 3. Forgetting the subject line in formal letters
+
+Not required, but a clear subject line (e.g., *Subject: Request for library membership*) earns easy clarity marks.
+
+### 4. No closing paragraph
+
+Ending abruptly after the complaint or request without a polite close feels incomplete.
+
+## Types of formal letters in the O/L syllabus
+
+The O/L paper usually asks for one of these types:
+
+- **Complaint letter** — about a product, a service, a public issue.
+- **Request letter** — asking for information, permission, or a job.
+- **Application letter** — for a job, membership, or admission.
+- **Invitation / RSVP letter** — formal invitations and responses.
+- **Letter to the editor** — about a newspaper topic or community issue.
+- **Thank you letter** — formal appreciation.
+
+Each has a slight variation in body content, but the format stays the same.
+
+## Types of informal letters
+
+- **Letter to a friend** — most common.
+- **Letter to a family member** — usually with warmer salutations.
+- **Letter of invitation** (informal) — birthdays, outings.
+- **Letter of congratulations** — exam results, achievements.
+- **Letter of sympathy** — rare but may appear.
+
+## Templates to memorise
+
+Memorising full letters doesn't help — the topic changes. But memorising the format skeleton saves time and secures the format marks.
+
+### Formal letter skeleton
+
+> [Your address]
+> [Your address]
+> [Your address]
+> [Date]
+>
+> [Recipient's name and title]
+> [Recipient's address]
+>
+> Dear Sir / Dear Madam / Dear Mr [Name],
+>
+> Subject: [Clear subject line]
+>
+> [Paragraph 1: Purpose.]
+>
+> [Paragraph 2: Details.]
+>
+> [Paragraph 3: Request / expected action.]
+>
+> [Paragraph 4: Polite close.]
+>
+> Yours faithfully / Yours sincerely,
+> [Signature]
+> [Printed name]
+
+### Informal letter skeleton
+
+> [Your address]
+> [Date]
+>
+> Dear [Name],
+>
+> [Paragraph 1: Warm opening, how are you.]
+>
+> [Paragraph 2: Main news or purpose.]
+>
+> [Paragraph 3: Details, personal touches.]
+>
+> [Paragraph 4: Ask about them, invite reply.]
+>
+> With love / Your friend,
+> [First name]
+
+Learn both skeletons by heart. In the exam, you fill in the content — the structure is automatic.
+
+## Where Woodberry Place fits
+
+Our O/L English programme drills letter writing weekly, with marked practice using the Department of Examinations marking scheme. Students typically secure full format marks by the time the exam comes.
+
+## Frequently asked questions
+
+**Is *Yours sincerely* okay with *Dear Sir*?**
+
+No. *Dear Sir / Dear Madam* always takes *Yours faithfully*. *Dear Mr [Name] / Dear Ms [Name]* takes *Yours sincerely*. Mismatching costs marks.
+
+**How many words should an O/L letter be?**
+
+Usually 100–150 words for the shorter letter, more for a long composition letter. Check the question — the word count is always specified.
+
+**Do I need a subject line in a formal letter?**
+
+Not required, but it adds clarity and often earns a presentation mark. Use one.
+
+**Should my informal letter include an address?**
+
+Yes, briefly — at the top right. But if space is tight, prioritise the date.
+
+---
+
+Want letter writing drilled with marked practice? [See our O/L English programme](https://woodberryplace.com/courses/ol-english/) or contact us about the next batch.
+
+
+---
+
+<!-- SOURCE FILE: blog-35-cv-writing-english-sri-lanka.md -->
+
+---
+title: "CV Writing in English for Sri Lankan Job Applicants"
+meta_description: "A practical guide to writing a CV in English for Sri Lankan job seekers — format, content, phrases that work, and the local mistakes to avoid."
+slug: cv-writing-english-sri-lanka
+primary_keyword: cv writing english sri lanka
+secondary_keywords: [sri lankan cv format, cv for sri lankans, resume writing english, job application sri lanka]
+target_audience: job seekers, graduates, career changers
+word_count_target: 1500
+---
+
+# CV Writing in English for Sri Lankan Job Applicants
+
+Your CV is read for 20 to 30 seconds. That's it. In that window, the recruiter decides whether to invite you to interview or move on. A strong CV makes that decision easy. A weak one — even from a strong candidate — doesn't make it past the pile.
+
+Here's how to write a CV in English that works in Sri Lanka and translates internationally. Based on what recruiters actually ask for, not what old textbooks say.
+
+## The right length
+
+- **Freshers / 0–3 years' experience:** one page.
+- **Mid-career / 3–10 years:** one to two pages.
+- **Senior / 10+ years:** two pages maximum.
+
+A CV longer than two pages tells the reader you can't prioritise. Long CVs get skimmed and shortened mentally — making your worst points stand out.
+
+## The structure (in this order)
+
+1. **Name and contact details** — top of page.
+2. **Professional summary** — 3–4 lines.
+3. **Work experience** — most recent first.
+4. **Education** — most recent first.
+5. **Skills** — relevant, specific.
+6. **Certifications / training** — if relevant.
+7. **Languages** — important in Sri Lanka.
+8. **References** — "Available on request" line, not actual names.
+
+Freshers can swap the order of work experience and education.
+
+## 1. Name and contact details
+
+At the top. Clean. No logo, no photograph unless the job specifically asks.
+
+- **Full name** — larger font, bold.
+- **Phone** — with country code if applying internationally: +94 77 123 4567.
+- **Email** — professional-sounding. *dinusha.perera@gmail.com*, not *supercoolboy99@gmail.com*.
+- **Location** — city is enough. "Matara, Sri Lanka." No need for your full address.
+- **LinkedIn URL** — optional, recommended for mid-career and above.
+
+What NOT to include:
+
+- Photograph (unless the company specifically requests one — European CVs sometimes do).
+- Age, date of birth.
+- Marital status.
+- NIC number.
+- Religion, race, caste.
+
+International CVs leave out personal details. Local CVs sometimes include them, but you can safely skip them now.
+
+## 2. Professional summary
+
+Three to four lines. Not an objective ("Seeking a challenging position..."). A statement of who you are and what value you bring.
+
+### Example — fresher
+
+> Recent BBA graduate from the University of Ruhuna with internship experience in retail banking and strong analytical skills. Confident in Excel, SAP, and client communication. Looking for a graduate role in operations or analytics.
+
+### Example — mid-career
+
+> Operations supervisor with 5 years of experience in logistics, managing teams of up to 12 and reducing warehouse errors by 20% through process improvement. Proficient in SAP, inventory systems, and team coaching.
+
+### Example — career changer
+
+> Customer service manager transitioning into training and development after 7 years of coaching new hires. Strong communicator, experienced in building onboarding programmes. CELTA-qualified (2026).
+
+Keep it specific. Avoid buzzwords like *passionate, dedicated, hardworking* without evidence.
+
+## 3. Work experience
+
+Most recent job first. For each role:
+
+- **Job title**
+- **Company name** — and city if not obvious.
+- **Dates** — month and year. "Jan 2022 – Present."
+- **Three to five bullet points** — what you did, with results where possible.
+
+### Example
+
+> **Customer Service Executive**
+> Nations Bank, Matara — Jan 2023 to Present
+>
+> - Handle 60+ customer enquiries daily across phone, email, and branch channels.
+> - Resolved 95% of complaints within 24 hours, exceeding the team target of 85%.
+> - Trained 4 new hires during onboarding, cutting time-to-productivity by 30%.
+> - Supported the rollout of a new CRM system across the branch (May 2024).
+
+### The STAR approach for bullets
+
+Each bullet point should answer:
+
+- **What did you do?**
+- **How well did you do it?** (Numbers if possible.)
+- **What was the result?**
+
+Weak: *Responsible for customer service.*
+Strong: *Handled 60+ customer enquiries daily and resolved 95% within 24 hours.*
+
+Numbers matter. If you can measure it, measure it.
+
+### Action verbs that work
+
+Start each bullet with a strong verb:
+
+- **Leadership:** led, managed, coached, mentored, supervised, directed
+- **Delivery:** delivered, completed, launched, implemented, rolled out
+- **Problem solving:** resolved, improved, reduced, streamlined, optimised
+- **Analysis:** analysed, assessed, evaluated, researched, forecasted
+- **Communication:** presented, trained, negotiated, briefed, published
+
+Avoid: *was responsible for, did, worked on* — these are weak.
+
+## 4. Education
+
+Most recent first. For each entry:
+
+- **Qualification** — Degree, Diploma, Certificate.
+- **Institution and location**
+- **Dates**
+- **Specialisation, class, or grade** — if strong.
+
+### Example
+
+> **Bachelor of Business Administration (BBA)**
+> University of Ruhuna, Matara — 2019–2023
+>
+> - Specialisation: Finance. Second Class (Upper Division).
+> - Relevant modules: Corporate Finance, Managerial Accounting, Data Analysis.
+
+For O/L and A/L, include them for recent graduates. After 3–5 years of work experience, A/L details become less important.
+
+- **A/Levels (2019):** Mathematics stream — 2A, 1B, 1C (Z-score 1.8).
+- **O/Levels (2017):** 9 passes including 2 Distinctions in English and Mathematics.
+
+Include the specific subject grades only if they're strong.
+
+## 5. Skills
+
+Specific skills, not generic traits.
+
+### Good
+
+- Excel (advanced — pivot tables, VLOOKUP, macros)
+- SAP (3 years, SD module)
+- SPSS, Tableau, Power BI
+- Project management (Agile/Scrum)
+- Content writing (English — blog, LinkedIn, long-form)
+
+### Weak
+
+- Hardworking
+- Team player
+- Passionate about learning
+- Good communicator
+
+Hiring managers see "hardworking" on every CV and skip past it. Specific skills they can test for lift your CV.
+
+## 6. Certifications and training
+
+Only relevant ones. Short, dated.
+
+- CELTA (Cambridge, 2024)
+- IELTS Band 7.5 (Academic, 2025) — important for overseas-facing roles.
+- Digital Marketing Fundamentals (Google, 2024)
+- Chartered Accountancy — Business Level (CA Sri Lanka, 2023)
+
+## 7. Languages
+
+Important in Sri Lanka. List with real levels.
+
+- **Sinhala** — Native.
+- **English** — Fluent.
+- **Tamil** — Conversational.
+
+Avoid vague "Reading and writing" — recruiters know that's weak. Use native / fluent / conversational / basic.
+
+## 8. References
+
+One line: *"References available on request."*
+
+Don't list referee names and contact details on the CV — it looks dated and clutters the page. Provide them when asked.
+
+## Common Sri Lankan CV mistakes
+
+### 1. *Passed out* from school
+
+- ✗ *Passed out from Richmond College.*
+- ✓ *Graduated from Richmond College.*
+
+*Pass out* in international English means to faint. Catches recruiters off guard.
+
+### 2. Photograph without being asked
+
+Many European and North American recruiters are trained to discard CVs with photographs to reduce bias. Even where it's accepted, leave it out unless asked.
+
+### 3. Personal details overload
+
+NIC, religion, caste, date of birth, marital status — none of these belong on an international CV, and most aren't needed locally either.
+
+### 4. *Objective* at the top
+
+Dated. Replace with a professional summary that's about value, not aspiration.
+
+### 5. School-era vocabulary
+
+- ✗ *Headed many school societies.*
+- ✓ *Led three student societies as president, organising events for 200+ members.*
+
+Shift from passive "was involved in" to active "led" / "managed" / "delivered."
+
+### 6. Lists of soft skills
+
+Hardworking, team player, quick learner — add nothing. Skip and use specifics instead.
+
+### 7. Inconsistent dates and tenses
+
+Past jobs in present tense, current jobs in past tense — looks careless. Current role: present tense. Past roles: past tense. Always.
+
+## Formatting dos and don'ts
+
+**Do:**
+
+- Clean, professional font — Arial, Calibri, or Garamond at 10–11 pt.
+- Plenty of white space.
+- Consistent spacing and bullet style.
+- Save as PDF unless asked for Word.
+- Name the file professionally: *CV_DinushaPerera_2026.pdf*.
+
+**Don't:**
+
+- Coloured borders or decorative fonts.
+- Comic Sans.
+- Random bolding and italics.
+- Photographs with poor lighting.
+- 10 pages of achievements.
+
+## For international applications
+
+- Add country code to phone number.
+- Use British English spelling (*organise* not *organize*) unless applying to US companies.
+- Mention visa / work authorisation status if relevant.
+- Keep to two pages maximum.
+- Remove photograph, DOB, religion, marital status.
+
+## Where Woodberry Place fits
+
+Our Business English programme includes a CV writing and job interview module. Students work on their actual CV with teacher feedback and run mock interviews in English.
+
+## Frequently asked questions
+
+**Should my CV be in British or American English?**
+
+In Sri Lanka, British English is more common. For international applications, match the country you're applying to — American English for US, British English for UK, Australia, and most other English-speaking countries.
+
+**Do I need to include my A/L subjects on my CV?**
+
+Yes, for recent graduates (within 3 years of A/Ls). For mid-career applicants, A/L subjects are less important — just the overall result or stream is enough.
+
+**Should I have different CVs for different jobs?**
+
+Yes. Customise your summary and bullet points to match each role. The underlying structure stays the same; the emphasis shifts.
+
+**Do I need to put a photograph on my CV?**
+
+No — unless the job posting specifically asks. Most international recruiters prefer no photograph.
+
+---
+
+Want your CV reviewed and interview English drilled? [See our Business English programme](https://woodberryplace.com/courses/spoken-english/) or contact us about a CV review session.
+
+
+---
+
+<!-- SOURCE FILE: blog-36-overcoming-shyness-english.md -->
+
+---
+title: "Overcoming Shyness in English: A Guide for Sri Lankan Adults"
+meta_description: "A practical, non-judgemental guide for Sri Lankan adults who freeze when speaking English — the real causes and the small habits that fix them."
+slug: overcome-shyness-speaking-english
+primary_keyword: overcome shyness speaking english
+secondary_keywords: [english shyness sri lanka, english confidence, scared to speak english, english nervousness]
+target_audience: adults who feel nervous speaking English
+word_count_target: 1300
+---
+
+# Overcoming Shyness in English: A Guide for Sri Lankan Adults
+
+You can read English. You can write emails in English. You even think some things in English. But the moment you have to speak — in a meeting, to a visitor, in front of a group — your throat tightens, your mind blanks, and you'd rather say nothing than make a mistake. If this is you, you're one of the most common people in any English class in Sri Lanka.
+
+Here's the honest guide to fixing it. No motivational quotes.
+
+## The problem isn't English
+
+It really isn't. If you can read this blog, you know enough English to have a conversation. The issue is one of two things, or both:
+
+### 1. Fear of judgement
+
+Somewhere — a classroom, a boss, a relative at a wedding — you felt judged for your English. Your brain tagged English as unsafe. Now every time you need to speak it, your nervous system reacts as if you're in danger.
+
+### 2. Lack of practice
+
+You can't drive a car well if you only drive once a year. You can't speak English well if you only speak it in emergencies.
+
+Both are fixable. The first needs patience. The second needs a schedule.
+
+## Step 1: Give yourself permission to be bad
+
+This sounds soft, but it matters. Adults carry an unspoken rule: *I should already be good at this*. And when they aren't, they avoid practising, which means they stay bad, which confirms the rule.
+
+Break the cycle by deciding — out loud if needed — that bad practice is allowed. Bad English this month is how you get to good English in six months.
+
+## Step 2: Pick a small, repeatable practice
+
+Big goals ("I'll become fluent this year") die fast. Small daily habits don't.
+
+Pick one of these. Start tomorrow.
+
+- **Two minutes of narration.** Narrate what you're doing in the kitchen or car, out loud, in English. Alone. No one is listening. "I'm making tea. I'm turning on the stove. The kettle is heating. I need sugar."
+- **One voice note a day.** Record a 60-second voice note on any topic. Save it. Compare week one to week four.
+- **One conversation.** Find one person who speaks English and have a short chat with them daily. A colleague. A friend. A trusted cousin.
+
+Pick one. Do it for 14 days. Don't skip. The habit matters more than the content.
+
+## Step 3: Build a small circle of safe speakers
+
+Shyness thrives when every English conversation feels high-stakes. Lower the stakes by building a small group of people you're comfortable speaking imperfect English with.
+
+- A colleague who's also learning.
+- A spoken English class, especially an adult one with similar-level peers.
+- A patient friend or family member.
+- An online language exchange partner.
+
+Three or four people are enough. You just need somewhere to practise without a performance.
+
+## Step 4: Delay judgement
+
+The biggest reason adults stay shy is they judge themselves mid-sentence. You start a sentence, notice a mistake, stop, apologise, restart. This kills fluency and reinforces the fear.
+
+The rule: finish every sentence you start. Even if it comes out wrong. Even if you know a better word. Finish it. Then move on.
+
+Correcting yourself mid-sentence trains your brain to expect failure. Finishing the sentence, even badly, trains your brain that nothing bad happens when you speak.
+
+## Step 5: Handle mistakes the right way
+
+When you make a mistake — and you will — try this:
+
+- **Notice it silently.** No apology. No "sorry my English is bad."
+- **Rephrase or move on.** If the other person understood, keep going. If they didn't, rephrase.
+- **Write it down after.** Not during. After the conversation, note the word or structure you got wrong. Look it up later.
+
+Apologising for your English during a conversation makes the other person uncomfortable and reinforces your own fear. Skip the apology.
+
+## Step 6: Switch to shorter sentences when nervous
+
+When shyness peaks, long sentences fall apart. Short sentences hold up under pressure.
+
+Instead of: *"I would like to inform you that there is a problem with the report that was prepared yesterday regarding the quarterly sales figures, which seems to have some data entry errors."*
+
+Say: *"There's a problem with yesterday's sales report. Some data entries are wrong."*
+
+Two short sentences. Same meaning. Easier to say. Less to go wrong with.
+
+## Step 7: Rehearse the first sentence
+
+You don't need to rehearse a whole meeting. You need to rehearse the first sentence. The first sentence is where nerves hit hardest. Once you've started, momentum carries you.
+
+Before a meeting, repeat your opening line three times in your head. Even just *"Thanks for coming — let me start with a quick update."* Owning the first sentence steadies the whole conversation.
+
+## Step 8: Fix the physical nerves
+
+Shyness lives in the body as much as the mind.
+
+- **Breathe out slowly before you speak.** Not deep breaths — slow exhales. This calms the nervous system.
+- **Lower your shoulders.** Shy posture is tight shoulders and a slight slump. Relax both.
+- **Make eye contact for two seconds.** Not stare — just a steady look before speaking. Cuts the fear of being looked at.
+- **Smile slightly.** It changes your voice tone and the other person's response.
+
+These sound small. They add up.
+
+## Step 9: Find one win per week
+
+Shyness feeds on evidence of failure. Starve it with evidence of wins.
+
+Each week, note down one moment you spoke English and it went okay. Not perfect. Just okay.
+
+- "I asked for the bill in English at the restaurant."
+- "I said 'good morning' to the foreign colleague instead of avoiding him."
+- "I answered a question in the meeting instead of staying quiet."
+
+One a week. Keep the list on your phone. On bad days, read it.
+
+## Step 10: Know this takes time
+
+Shy adults rarely become fully confident English speakers in six weeks. The honest timeline:
+
+- **Week 2:** easier to start a sentence. Still nervous mid-conversation.
+- **Week 6:** can hold a short conversation without blanking.
+- **Month 3:** physically feel less nervous. Can speak up in a small meeting.
+- **Month 6:** comfortable enough to initiate English conversations yourself.
+- **Year 1:** confident in most everyday situations, still nervous for very formal ones.
+
+This is normal. Faster is possible with intense practice. Slower is also fine.
+
+## What doesn't help
+
+- **Watching more English TV.** Builds listening, not speaking.
+- **Grammar books.** You already know enough grammar to speak.
+- **Learning more vocabulary.** New words don't come out when you're frozen.
+- **Thinking in English.** Classic advice; nearly impossible to force.
+- **Memorising phrases.** They never come out when you need them.
+
+## Where a class fits
+
+A good adult spoken English class is the single fastest fix for most shy adults. Not because the teacher has a secret. Because:
+
+- You get regular low-stakes speaking time.
+- You see others also making mistakes.
+- You build a few familiar faces to speak with.
+- The structure removes the "when do I practise?" question.
+
+Look for: small groups (6–12), adults at similar levels, no public performances, no shaming.
+
+Avoid: large groups, mixed levels, teachers who correct every mistake harshly, "fun speaking sessions" that are really grammar lectures.
+
+## Where Woodberry Place fits
+
+Our adult Spoken English classes run small, peer-level groups where every student speaks every lesson. We don't correct mid-sentence, we don't single students out, and most adults are comfortable speaking within three weeks.
+
+## Frequently asked questions
+
+**Is it normal for Sri Lankan adults to feel shy about English?**
+
+Very. Most working adults in Sri Lanka report some discomfort speaking English, especially in front of people perceived as more fluent. The feeling is almost universal.
+
+**Will I ever be fully confident?**
+
+Most people get to "comfortable" rather than "fully confident." Even native English speakers feel nervous in formal settings. Comfortable is enough.
+
+**Should I take a group class or 1-on-1 lessons?**
+
+For shyness, a small group usually works better than 1-on-1. Peers normalise mistakes. A teacher watching you alone can feel more judgemental.
+
+**Can I fix shyness without speaking to anyone?**
+
+Partly — narration and voice notes help build familiarity with your own English voice. But at some point real people are needed. Shyness goes away with exposure, not avoidance.
+
+---
+
+Ready to stop freezing and start speaking? [See our adult Spoken English classes](https://woodberryplace.com/courses/spoken-english/) or contact us about joining a trial batch.
+
+
+---
+
+<!-- SOURCE FILE: blog-37-english-for-job-interviews.md -->
+
+---
+title: "English for Job Interviews in Sri Lanka"
+meta_description: "How to prepare for job interviews in English — common questions, strong answers, the Sri Lankan mistakes to avoid, and a 2-week prep plan."
+slug: english-for-job-interview-sri-lanka
+primary_keyword: english for job interview sri lanka
+secondary_keywords: [job interview english, interview preparation sri lanka, english interview tips, common interview questions]
+target_audience: job seekers in Sri Lanka
+word_count_target: 1500
+---
+
+# English for Job Interviews in Sri Lanka
+
+A job interview in Sri Lanka tests English twice. Once directly — through questions you have to answer in English. Once indirectly — through how fluently and confidently you sound across the whole conversation. Even for roles where the day-to-day work is in Sinhala or Tamil, interviewers watch your English.
+
+Here's how to prepare so your English carries your interview, not drags it.
+
+## Why English matters in Sri Lankan interviews
+
+Three reasons, in order:
+
+- **Employers often work with international clients.** Even for local-facing roles, email English matters.
+- **English is treated as a proxy for other skills.** Rightly or wrongly, strong English signals a strong candidate.
+- **The interviewer is also being watched.** Panels and senior managers want to hire someone they can defend. Confident English makes defence easy.
+
+You can't change the system in one interview. You can use it.
+
+## The structure of a typical interview
+
+Most structured interviews in Sri Lanka follow this pattern:
+
+1. **Warm-up** — small talk, how was your journey, tea or water.
+2. **Tell me about yourself.** The most dangerous question. More below.
+3. **Why this company? Why this role?**
+4. **Technical / skill-based questions.** Specific to the job.
+5. **Behavioural questions.** "Tell me about a time when..."
+6. **Your questions for us.**
+7. **Closing.** Next steps, salary expectations sometimes.
+
+Prepare one solid answer for each of the first six sections. Don't memorise — rehearse until the structure is natural.
+
+## "Tell me about yourself"
+
+The question everyone fumbles. Here's the structure that works:
+
+- **Present:** what you do now, one sentence.
+- **Past:** how you got there, one or two sentences.
+- **Future:** why you're here — why you want this role.
+
+### Weak answer
+
+> *My name is Dinusha. I am 26 years old. I passed out from University of Ruhuna. I like cricket and reading. I am interested in this job.*
+
+### Strong answer
+
+> *I'm currently a customer service executive at Nations Bank in Matara, where I've spent the last two and a half years handling retail queries and training new staff. Before that I studied business administration at the University of Ruhuna, focusing on finance. I'm applying to this role because I'd like to move from customer-facing work into the operations side, which is where my coursework was strongest and where I see my long-term career.*
+
+Three sentences. Clear structure. No personal details that aren't asked for.
+
+## "Why this company? Why this role?"
+
+Not: *"Because I need a job"* or *"Because it's a good company."*
+
+Preparation: read the company's website, LinkedIn page, and any recent news. Pick two specific things.
+
+### Framework
+
+- One thing about the company you genuinely admire (not generic — specific).
+- One thing about the role that matches your skills.
+- One thing about the industry's future that interests you.
+
+### Example
+
+> *Two things drew me to Dialog. First, the recent push into enterprise cloud services — I've been following that transition closely and it's where I'd like to spend my career. Second, this particular role combines customer-facing work with backend systems knowledge, which matches what I've been doing at my current job but with a bigger scale.*
+
+Specific beats generic every time.
+
+## Behavioural questions — the STAR method
+
+"Tell me about a time when..." questions test how you've actually handled situations. Structure your answer with STAR:
+
+- **Situation** — set the scene briefly.
+- **Task** — what you were asked to do.
+- **Action** — what you specifically did.
+- **Result** — what happened.
+
+### Example
+
+> **Interviewer:** Tell me about a time you handled a difficult customer.
+>
+> **You:** Last year we had a customer who was angry because his monthly statement had an error that had carried over for three months. Nobody had owned the issue — it kept getting transferred.
+>
+> I took responsibility for it, apologised, and walked through the statement with him line by line. The underlying issue was a wrong charge code applied at account setup. I corrected the record, got the refund approved within a day, and called him back to confirm.
+>
+> He wrote to our branch manager afterwards praising the resolution. I also wrote up what I'd found as a process note so the same error wouldn't repeat.
+
+Specific. One clear incident. Numbers or evidence where possible.
+
+## Questions you should ask
+
+At the end, when they say "Do you have any questions?" — always say yes. Candidates with no questions look uninterested.
+
+### Safe, strong questions
+
+- *"What does success in this role look like in the first six months?"*
+- *"How is performance evaluated in this team?"*
+- *"What are the biggest challenges someone in this role would face?"*
+- *"What do you enjoy about working here?"*
+- *"What are the next steps in the hiring process?"*
+
+### Don't ask (yet)
+
+- Salary — unless they bring it up first.
+- Working from home policy as the first question.
+- How much leave you get.
+
+Save practical questions for the second interview or offer stage.
+
+## Common Sri Lankan interview mistakes
+
+### 1. *Myself [Name]*
+
+- ✗ "Myself Dinusha Perera."
+- ✓ "I'm Dinusha Perera." / "My name is Dinusha Perera."
+
+### 2. *Passed out from*
+
+- ✗ "I passed out from University of Ruhuna."
+- ✓ "I graduated from the University of Ruhuna."
+
+### 3. Over-formal language
+
+*"I am humbly requesting an opportunity to serve your esteemed organisation."* Reads as colonial-era. Keep it conversational and modern.
+
+### 4. Too many personal details
+
+Your age, religion, marital status, number of siblings — not relevant. Don't volunteer them.
+
+### 5. Weak closing
+
+Ending the interview with "That's all from my side" is weak. Close strongly:
+
+> *"Thanks for the conversation — I really enjoyed hearing about the role. I'd love to be considered."*
+
+### 6. Apologising for your English
+
+Never. If you make a mistake, pause, rephrase, continue. Apologising highlights it.
+
+### 7. Reading from notes
+
+For technical questions, having short notes is fine. For personal answers, reading from a paper looks scripted. Memorise the structure, not the words.
+
+## Phrases to practise
+
+### Opening
+
+- *"Thanks for having me."* — walk in with this.
+- *"Thanks for the question."* — before a hard question, buys you two seconds.
+
+### Buying time
+
+- *"Let me think about that for a second."*
+- *"That's a good question."*
+- *"To make sure I understand, you're asking about [X]?"*
+
+### Showing you listen
+
+- *"Based on what you've described..."*
+- *"To build on what you mentioned..."*
+
+### Closing
+
+- *"Could I ask when I might hear back?"*
+- *"Thanks again for the opportunity to interview."*
+
+## A 2-week prep plan
+
+### Week 1
+
+- **Day 1:** read the job description three times. List the skills they want.
+- **Day 2:** write your "tell me about yourself" using the Present-Past-Future structure.
+- **Day 3:** list five STAR stories from your work. One difficult customer, one team conflict, one failure, one win, one leadership moment.
+- **Day 4:** research the company. Read their website, LinkedIn, and news.
+- **Day 5:** draft answers to the five most common behavioural questions.
+- **Day 6:** draft your three questions for the interviewer.
+- **Day 7:** rest, review.
+
+### Week 2
+
+- **Day 1:** rehearse your "tell me about yourself" out loud, five times.
+- **Day 2:** rehearse one STAR story out loud until it flows.
+- **Day 3:** do a mock interview with a friend. Ask them to be strict.
+- **Day 4:** work on the answers that stumbled.
+- **Day 5:** second mock interview.
+- **Day 6:** rest. Early sleep.
+- **Day 7:** interview day.
+
+## Interview day
+
+- Arrive 15 minutes early.
+- Dress one level smarter than the office norm.
+- Switch off your phone. Not silent — off.
+- Shake hands firmly but not aggressively.
+- Make eye contact, smile, start clearly.
+- Water on hand for the dry mouth.
+- Breathe out slowly before each answer.
+
+## Where Woodberry Place fits
+
+Our Business English programme runs mock interview sessions with recorded feedback. Students work on real job openings, prepare answers, and get coached on delivery before the real interview.
+
+## Frequently asked questions
+
+**Should I speak British or American English in a Sri Lankan interview?**
+
+British-leaning English is standard in most Sri Lankan professional settings. Don't try to switch to American — your natural English, clearly spoken, is best.
+
+**What if my English is weaker than other candidates'?**
+
+Lean into your other strengths and show real preparation. Clear, honest, structured English beats fast English full of errors every time.
+
+**Is it okay to switch to Sinhala or Tamil during the interview?**
+
+Only if the interviewer does first. Stay in English until invited to switch.
+
+**How much preparation is enough for an interview?**
+
+Two weeks at 30–45 minutes a day is enough for most mid-career candidates. For a dream role or a senior job, start four weeks ahead.
+
+---
+
+Want structured interview coaching in English? [See our Business English programme](https://woodberryplace.com/courses/spoken-english/) or contact us about mock interview sessions.
+
+
+---
+
+<!-- SOURCE FILE: blog-38-english-presentation-skills.md -->
+
+---
+title: "How to Give a Presentation in English Without Panic"
+meta_description: "A calm guide to giving English presentations in Sri Lanka — structure, phrases, handling questions, and the small habits that make you look confident."
+slug: english-presentation-skills
+primary_keyword: english presentation skills
+secondary_keywords: [presentation english sri lanka, give a presentation english, public speaking english, presentation tips]
+target_audience: working adults, students
+word_count_target: 1400
+---
+
+# How to Give a Presentation in English Without Panic
+
+Standing in front of a room and speaking in English feels bigger than it is. It's the same English you use every day — just with people looking at you. But the extra pressure is real, and for most Sri Lankan professionals, it's one of the biggest career hurdles. Here's how to get through a presentation without your voice shaking or your mind blanking.
+
+Not confidence tricks. Actual preparation and specific English that works.
+
+## The structure that holds up under pressure
+
+Every good presentation has the same shape:
+
+1. **Opening** — grab attention, state the point.
+2. **Agenda** — what's coming.
+3. **Three main points** — the body.
+4. **Summary** — restate the point.
+5. **Close** — call to action or question invitation.
+
+Five parts. Any presentation — a 5-minute update or a 30-minute pitch — fits this skeleton.
+
+## 1. The opening
+
+The first 30 seconds decide whether the room listens. Don't waste them.
+
+### Weak openings
+
+- *"Good morning. My name is Kasun. Today I will be talking about..."*
+- *"Firstly, I would like to thank everyone..."*
+
+### Strong openings
+
+- *"Three months ago, we had a problem. Today I want to show you how we solved it — and what it saved us."*
+- *"Let me start with a number: 47%. That's how much our customer response time improved last quarter. Here's how."*
+- *"If you remember one thing from today, let it be this: [one sentence]."*
+
+Open with the point, not the preamble. The thanks and introductions can wait.
+
+## 2. The agenda
+
+One short sentence. Not a bulleted slide listing every section.
+
+> *"I'll cover three things: what we tried, what worked, and what's next."*
+
+Done. Move on.
+
+## 3. The body — three main points
+
+Not five, not seven. Three. Any more and the room forgets.
+
+For each point:
+
+- **State the point.** One sentence.
+- **Explain it.** Two or three sentences.
+- **Example or evidence.** One specific case.
+- **Transition.** One sentence into the next point.
+
+### Example
+
+> *"Point one: our old process took five days. [Explain.] It involved three handoffs between teams, with waiting time at each step. One request in May took eleven days to close. [Example.] Let's look at what we changed."*
+
+Simple. Specific. Clear.
+
+## 4. The summary
+
+Restate your three points in one sentence each. Thirty seconds. The audience has had 10 minutes of information — remind them what mattered.
+
+> *"So, to recap: our old process was slow, the new one cuts the time in half, and next quarter we're rolling it out across all three branches."*
+
+## 5. The close
+
+The last 30 seconds matter almost as much as the first. Don't fade out.
+
+### Weak close
+
+- *"That's all from my side. Any questions?"*
+
+### Strong close
+
+- *"If this works, we save Rs. 2 million a year and win back customer trust. I'd like to start the rollout next month — I'll send the plan this afternoon. Questions?"*
+
+The close names what happens next. Vagueness here undoes the whole presentation.
+
+## Phrases to anchor each section
+
+### Opening
+
+- *"Thanks for making time."*
+- *"Let me start with..."*
+- *"The reason we're here is..."*
+- *"If you take one thing from this session..."*
+
+### Signposting (moving between sections)
+
+- *"Let's move to the second point."*
+- *"That brings me to..."*
+- *"Which leads to..."*
+- *"Before we go on, a quick note."*
+
+### Highlighting
+
+- *"The key point here is..."*
+- *"What really matters is..."*
+- *"Notice that..."*
+- *"This is important because..."*
+
+### Giving examples
+
+- *"For example,..."*
+- *"To give you a specific case,..."*
+- *"Take Monday last week, when..."*
+
+### Closing
+
+- *"To wrap up,..."*
+- *"In summary,..."*
+- *"The next step is..."*
+- *"I'll leave you with this thought:..."*
+
+### Questions
+
+- *"Good question — the short answer is..."*
+- *"I don't have the exact figure, but I'll follow up this afternoon."*
+- *"Does that answer your question?"*
+
+## Handling the panic
+
+### Breathing
+
+Nerves tighten your chest. Before you walk on, do three slow exhales. Inhale naturally, exhale for four seconds. Repeat three times. Lowers heart rate immediately.
+
+### Pace
+
+Panic makes people speed up. Deliberately slow down. Pause at the end of each sentence for a second. Pauses feel long to you — they don't to the audience.
+
+### Hands
+
+Don't know what to do with your hands? Hold them loosely in front of you. Or on the podium. Or holding a pen. Not in your pockets. Not crossed.
+
+### Eye contact
+
+Pick three friendly faces — one on each side of the room, one in the middle. Rotate among them. Feels like you're talking to the whole room without staring at anyone.
+
+### If you lose your place
+
+Pause. Look at your notes. Say *"Let me just check where I was."* Take a sip of water. Resume. The audience barely notices.
+
+## Slides — rules that help, not hurt
+
+- **One idea per slide.** Not five bullet points.
+- **Big text.** 24pt minimum. If someone in the back row squints, the slide is too busy.
+- **Pictures help.** A photo or chart often works better than words.
+- **Don't read the slides.** The audience can read. Your job is to explain.
+- **Hide your notes on the slides.** Put your detailed notes in the speaker's notes, not on the slide itself.
+
+## Rehearsing
+
+### Day 1
+
+Write the presentation. Full sentences. Three main points, example for each.
+
+### Day 2
+
+Say it out loud. Alone. Twice. Time yourself.
+
+### Day 3
+
+Rehearse with one person as audience. Ask them for three pieces of feedback — start, middle, end.
+
+### Day 4
+
+Rehearse standing up. The posture and breathing are different when you're sitting.
+
+### Day 5
+
+Final rehearsal. Time it. Stop fiddling with slides.
+
+Five days is enough for most presentations. For a big one, add a mock presentation to a wider audience.
+
+## Handling Q&A
+
+The question period after a presentation is where nerves often return. Three tricks:
+
+### 1. Repeat the question
+
+Buys you five seconds and ensures you heard it right.
+
+*"The question is: how will we handle the stock levels during the transition?"*
+
+### 2. If you don't know, say so
+
+Honest beats fake. *"I don't have that number — I'll send it this afternoon."* Credibility goes up, not down.
+
+### 3. Don't argue
+
+If someone challenges you, acknowledge first, then respond. *"That's a fair point — my thinking was..."* Defensive answers lose the room.
+
+## Common Sri Lankan presentation mistakes
+
+### 1. Reading every word from slides
+
+Audience reads faster than you speak. Skip ahead or watch their eyes glaze.
+
+### 2. Memorising the whole talk
+
+Memorised presentations sound robotic and collapse the moment you lose your place. Memorise structure, not sentences.
+
+### 3. Starting with *"Firstly, I would like to thank..."*
+
+Colonial-era. Replace with a direct opening.
+
+### 4. Apologising for your English
+
+Never. If you make a mistake, keep going.
+
+### 5. Too many thank yous
+
+*"Thank you for giving me this opportunity to thank you for your valuable time."* Once at the end. Not before every section.
+
+### 6. Running over time
+
+Every minute over your allotted slot irritates the room. Rehearse to come in 30 seconds under.
+
+## Where Woodberry Place fits
+
+Our Business English programme includes a presentation skills module with video recording and feedback. Students rehearse real presentations and receive coaching on structure, delivery, and handling questions.
+
+## Frequently asked questions
+
+**Should I write out my full presentation word for word?**
+
+Write it out for the first rehearsal, then move to bullet-point notes. Word-for-word scripts sound robotic in delivery.
+
+**What if I freeze mid-presentation?**
+
+Pause. Breathe out. Take a sip of water. Check your notes. Resume. The audience sees 2 seconds; you feel 30. Pauses are fine.
+
+**How much eye contact is enough?**
+
+Pick 3–5 friendly faces and rotate through them. Avoid staring at one person. Also avoid staring at your laptop or the back wall.
+
+**Is it okay to use humour in presentations?**
+
+A light, one-line opener that fits the room is fine. Don't lead with a joke, don't push humour if it's not your style.
+
+---
+
+Ready to present in English without panic? [See our Business English programme](https://woodberryplace.com/courses/spoken-english/) or contact us about presentation coaching sessions.
+
+
+---
+
+<!-- SOURCE FILE: blog-39-raising-bilingual-child-sri-lanka.md -->
+
+---
+title: "Raising a Bilingual Child in Sri Lanka"
+meta_description: "A practical guide for Sri Lankan parents raising children in two languages — strategies that work, myths to ignore, and when to add English."
+slug: raising-bilingual-child-sri-lanka
+primary_keyword: raising bilingual child sri lanka
+secondary_keywords: [bilingual child english, sri lankan kids english, two language parenting, child language learning]
+target_audience: parents of young children
+word_count_target: 1400
+---
+
+# Raising a Bilingual Child in Sri Lanka
+
+A lot of Sri Lankan parents grow up speaking one language at home and wish they'd grown up speaking two. So when they have children of their own, the question comes up fast: can we raise this child to speak Sinhala (or Tamil) and English comfortably? And if yes, how do we do it without confusing them?
+
+Good news: the research is clear. Children handle two or three languages at the same time without harm. The practical question is how to do it in a Sri Lankan household.
+
+## What "bilingual" actually means
+
+A bilingual child doesn't speak two languages identically. They have a *stronger* language (usually the one spoken most at home) and a *supporting* language (used elsewhere). This is normal. Perfect balance isn't the goal.
+
+A bilingual child typically:
+
+- Has a slightly smaller vocabulary in each language than a monolingual child, but a larger total vocabulary across both.
+- May mix languages for a year or two when young — this is called *code-switching* and it's completely normal.
+- Catches up fully in vocabulary by late primary school.
+- Thinks flexibly between languages for life.
+
+## Myths that need to go
+
+### Myth 1: Two languages confuse children
+
+False. Children from birth can separate languages. Yes, they sometimes mix words ("Mummy, pass the කටුව"). This is sorting, not confusion.
+
+### Myth 2: Bilingual children start speaking later
+
+Mixed evidence. Some do start a few months later; others don't. Either way, by age 3–4 they catch up and the delay has no long-term effect.
+
+### Myth 3: You must only speak English at home to raise a bilingual child
+
+False. In fact, this often backfires in Sri Lankan families where parents' own English isn't strong enough to sustain a full childhood of conversation. The quality of English your child hears matters more than the quantity.
+
+### Myth 4: Children must start young or they'll never be bilingual
+
+Partly true. Earlier is easier, but children added into English at Grade 3 or 4 still become comfortably bilingual with consistent exposure.
+
+## The three household models that work
+
+### Model 1: One Parent, One Language (OPOL)
+
+- One parent speaks Sinhala (or Tamil) only to the child.
+- The other parent speaks English only to the child.
+
+Works best when one parent is fully comfortable in English. In Sri Lanka, often achievable if one parent grew up in an English-medium school, worked abroad, or works in an English-first profession.
+
+### Model 2: Home language, English outside
+
+- Family language at home (Sinhala or Tamil).
+- English at school, class, screen time, and specific activities.
+
+This is the most common Sri Lankan model. Works well if the family actively supports the English side with reading, cartoons, and classes rather than leaving it to school.
+
+### Model 3: Daily English window
+
+- Family language most of the day.
+- One or two defined English times — storytime, car rides, dinner — kept consistent.
+
+A gentler version of Model 2, useful when parents aren't fully comfortable with English but want to build steady exposure.
+
+Pick the one that fits your household. You can shift between models as the child grows.
+
+## Age by age: what to do
+
+### Birth to 2
+
+- Talk constantly to your baby in your strongest language.
+- Introduce short English words through play — colours, animals, food names.
+- Read English picture books aloud. The baby doesn't need to understand every word.
+- Sing English nursery rhymes.
+
+### Ages 2–4
+
+- Continue family language as the main conversation language.
+- Add 15–30 minutes a day of dedicated English time — stories, songs, routines.
+- Exposure through English cartoons (short, well-chosen) with conversation afterwards.
+- Avoid formal English worksheets. Play-based only.
+
+### Ages 4–6
+
+- Start phonics informally. (See our [phonics for Sri Lankan kids guide](https://woodberryplace.com/blog/phonics-for-kids-sri-lanka/).)
+- Continue English storytime, now with the child reading along.
+- Consider a small group English class — Little Learners or similar.
+- Praise effort, not accuracy. Mistakes are expected.
+
+### Ages 6–10
+
+- School English adds structured exposure.
+- Independent English reading starts to matter — chapter books, graded readers.
+- Daily English conversation at home, even briefly.
+- Supplementary classes help if school English is thin.
+
+### Ages 10–14
+
+- Peer conversations become a strong driver. Encourage English-medium activities.
+- Watching, reading, and writing in English become personal choice.
+- Exam-focused English (O/L) overlaps with general English — both matter.
+- Don't lose the family language — the goal is bilingual, not English-only.
+
+## Common parent mistakes
+
+### Mistake 1: Forcing English before the child is ready
+
+A 3-year-old who's just started speaking shouldn't be drilled on verb tenses. Play comes first, structure comes later.
+
+### Mistake 2: Correcting every mistake
+
+A child who feels corrected mid-sentence stops speaking. Model the right version in your reply, don't lecture.
+
+### Mistake 3: Making the family language feel less important
+
+Praising English fluency more than Sinhala or Tamil teaches the child that the family language is lower-value. Both matter.
+
+### Mistake 4: Switching to English only before public
+
+Many parents speak Sinhala or Tamil at home, then switch to English in front of visitors. This signals that English is for showing off. The child picks it up.
+
+### Mistake 5: Comparing children
+
+"My sister's son speaks English fluently at 5." Every child is different. Forcing a child to match another sets up resentment.
+
+### Mistake 6: Over-relying on screens
+
+An iPad with English cartoons for an hour isn't enough. Interaction is where language is built.
+
+## When your English isn't strong
+
+A lot of Sri Lankan parents worry that their own English isn't good enough to model for their children. The honest answer: your willingness to try matters more than your fluency.
+
+- **Read English storybooks aloud.** Even if your pronunciation isn't perfect, your child learns the rhythm.
+- **Watch English shows together and talk about them** in whichever language.
+- **Let the child correct you** sometimes. Builds confidence on both sides.
+- **Consider a class for them, not you.** A good small-group English class fills the gap.
+
+What you absolutely shouldn't do: pretend your English is better than it is. Children sense this, and it damages trust.
+
+## Multilingual households (Sinhala + Tamil + English)
+
+Some Sri Lankan families have Sinhala on one side, Tamil on the other. Adding English makes three. Children handle three languages fine — same principles apply.
+
+Common setup that works:
+
+- Mother speaks Sinhala.
+- Father speaks Tamil.
+- School and class in English.
+- Family conversations mixed, then clarified in each language.
+
+Children end up trilingual with no extra effort as long as all three languages get real daily use.
+
+## Signs it's going well
+
+- The child switches languages depending on who they're talking to.
+- Vocabulary is growing in both languages (even if one is bigger).
+- The child uses English spontaneously, not just when asked.
+- They're happy to read, listen, and play in both languages.
+
+## Signs to pay attention to
+
+- Child refuses English entirely and seems stressed about it.
+- School teachers flag that the child is far behind peers in one language.
+- Child isn't speaking much in either language by age 3.
+
+The first two usually mean the method needs adjusting (less pressure, more fun). The third usually means a short speech assessment — not always a problem, but worth checking.
+
+## Where Woodberry Place fits
+
+Our Little Learners programme supports bilingual households by providing structured, play-based English exposure so parents don't have to carry all of it at home. Classes complement rather than replace the family language.
+
+## Frequently asked questions
+
+**Will my child be behind in Sinhala / Tamil if we add English early?**
+
+Not if you keep speaking the family language regularly at home. Children handle multiple languages without long-term cost to any of them.
+
+**Should I correct my child when they mix languages?**
+
+No, especially under age 5. Mixing languages is a normal phase. Model the correct version in your reply and move on.
+
+**When should we start a formal English class?**
+
+Around age 4–5 is a comfortable starting point for a play-based class. Earlier is possible but not necessary.
+
+**My child speaks English at school but Sinhala at home. Is that okay?**
+
+Yes — this is one of the most common bilingual patterns in Sri Lanka. Keep both languages alive and your child will develop both.
+
+---
+
+Looking for structured English support for your bilingual child? [See our Little Learners programme](https://woodberryplace.com/courses/kids/) or contact us about joining a trial class.
+
+
+---
+
+<!-- SOURCE FILE: blog-40-screen-time-english-learning.md -->
+
+---
+title: "Screen Time for English Learning: What's Helpful, What's Not"
+meta_description: "A balanced guide for Sri Lankan parents on using screens for children's English — what works, what wastes time, and how much is right at each age."
+slug: screen-time-english-learning-kids
+primary_keyword: screen time english learning kids
+secondary_keywords: [english cartoons sri lanka, kids english youtube, screens for english learning, english apps kids]
+target_audience: parents of 3–14 year olds
+word_count_target: 1300
+---
+
+# Screen Time for English Learning: What's Helpful, What's Not
+
+Screens are everywhere in Sri Lankan homes now. Phones, tablets, smart TVs, YouTube on demand. Every parent faces the same question: does any of this actually help my child's English, or is it just background noise with English words in it?
+
+Here's the honest answer, by age and by type. Based on what actually works, not what app advertising claims.
+
+## The short version
+
+- **Good screen time builds English.** Interactive, conversation-led, limited in time.
+- **Bad screen time wastes time.** Passive, long sessions, no follow-up.
+- **The difference is what happens after.** A child who watches a cartoon then talks about it learns. A child who watches and scrolls doesn't.
+
+## How much is right by age
+
+Rough rules, drawn from paediatric guidance and real family patterns:
+
+| Age | Total daily screen time | English-learning share |
+|---|---|---|
+| Under 2 | None (except video calls) | None |
+| 2–5 | 30–60 minutes | 15–30 minutes |
+| 6–10 | 60–90 minutes | 30–45 minutes |
+| 11–14 | 90–120 minutes | Up to an hour, overlapping |
+
+These are upper limits for learning use, not daily minimums. Half of these numbers is fine.
+
+Note: these don't include school screen time (online classes, homework). Assume school time is separate.
+
+## What actually helps
+
+### 1. English cartoons watched actively
+
+A 15-minute cartoon followed by 5 minutes of conversation builds language faster than 30 minutes of passive watching.
+
+After the cartoon, ask simple questions:
+
+- *Who was in the story?*
+- *What happened at the beginning / middle / end?*
+- *Was that a good decision? Why?*
+- *What would you do?*
+
+Child does 80% of the talking. You listen. Correct mistakes only by modelling the right version in your reply.
+
+### 2. Audiobooks and podcasts for children
+
+Underrated in Sri Lanka. Audio-only means the child builds listening skills without screen fatigue.
+
+- 10–15 minutes before bed.
+- During car rides.
+- During quiet play.
+
+Good options: BBC children's podcasts, Audible Stories for Kids (free library), Spotify children's story playlists.
+
+### 3. Interactive apps for phonics and reading (ages 4–7)
+
+For very young children, apps that teach phonics — reading short words, matching sounds to letters — can work well. Rules:
+
+- 10 minutes a session, not 30.
+- Child reads aloud, not just taps.
+- One app, not ten.
+
+Good general types: phonics apps with voice recording, early readers with tap-to-hear.
+
+### 4. Video chats with English-speaking family or friends
+
+If you have relatives abroad or a family friend who speaks English, a weekly 15-minute video chat for the child is gold. Real conversation, real stakes, in English.
+
+### 5. YouTube channels specifically for learners
+
+A few channels run by teachers for English learners work well:
+
+- *British Council LearnEnglish Kids* (official, well-structured)
+- *Ms Rachel* (very young children, interactive)
+- *Alphablocks* (phonics-based, for 4–6 year olds)
+- *Peppa Pig in English* (for younger children — simple vocabulary, clear speech)
+
+Save them in a playlist. Don't rely on autoplay.
+
+### 6. Reading apps with real books
+
+Platforms with proper children's books (Epic!, Oxford Reading Tree app, Reading Eggs) are better than game-based apps for genuine reading growth.
+
+## What doesn't help (much)
+
+### 1. YouTube on autoplay
+
+Autoplay serves whatever gets clicks, not what builds English. A child watches one cartoon, then slides into unboxing videos, then into increasingly bizarre algorithm-fed content. Little English gain, lots of time lost.
+
+Fix: disable autoplay or curate a playlist.
+
+### 2. Shorts, TikTok, Instagram Reels
+
+Short video formats train attention span to 15 seconds and build almost no language. The child may pick up a few phrases but miss how English works at the sentence or paragraph level.
+
+For English learning, under-15s are better off with longer-form content.
+
+### 3. Dubbed content
+
+A Peppa Pig episode dubbed into Sinhala teaches almost no English. If you're using Peppa Pig for English, make sure it's the original English audio.
+
+### 4. Passive family TV in English
+
+Having the TV on in English while the family does other things is better than nothing, but it builds English much more slowly than focused viewing. Treat it as a bonus, not a strategy.
+
+### 5. Apps that promise fluency
+
+Apps marketed as full English solutions (especially for children) rarely deliver. Language is built through interaction, not through quizzing.
+
+### 6. Educational games with endless rewards
+
+Games that reward every correct answer with coins, stars, or badges can train the child to care about the game, not the English. Choose simpler apps with less gamification.
+
+## The "watch together" rule
+
+For any screen time under age 8, the strongest rule is simple: watch together when you can. Not for every minute. But often enough that you can talk about what you saw.
+
+- "Why did he do that?"
+- "What was the funny part?"
+- "What English word did we hear a lot?"
+
+Shared viewing doubles the language impact of the same watching time.
+
+## Setting up a screen routine that works
+
+### 1. Pick slots, not durations
+
+"20 minutes after school" is clearer than "up to 30 minutes a day." Specific slots are easier to enforce.
+
+### 2. Use a timer
+
+A kitchen timer or a phone alarm. When it beeps, the screen goes off. Reduces arguments.
+
+### 3. Pair screens with offline follow-up
+
+After the show, the child draws a picture of the story, writes one sentence about it, or retells it to another family member. Converts passive viewing into active practice.
+
+### 4. Device off meals and off bedrooms
+
+Meals are family language time. Bedrooms are sleep. Screens stay in the living room.
+
+### 5. Model it
+
+Children watch what parents do. If you scroll through your phone all evening, they'll want to as well.
+
+## For older children (11–14)
+
+Teenagers won't follow a strict routine, but you can shift what they watch.
+
+- Encourage English-language film and TV over dubbed content.
+- Help them find English YouTube channels in subjects they already love (cricket, gaming, music, fashion).
+- Suggest podcasts — most teenagers will listen if you find one that matches their interest.
+- Watch one English film together per month. Discuss it afterward.
+
+You're not controlling their screens at this age — you're nudging the mix.
+
+## When screens are doing more harm than good
+
+- Child is irritable or tired from constant screen use.
+- Screen is replacing play, reading, or face-to-face time entirely.
+- Child speaks almost only in short, meme-style English phrases.
+- Screen time causes arguments every day.
+
+If any of these appear, dial back. English learning doesn't require screens — it requires conversation, books, and curiosity. Screens are a supplement, not the main dish.
+
+## Where Woodberry Place fits
+
+Our Little Learners and junior English programmes focus on in-person, interactive learning that screens can't replicate. We suggest short, specific screen recommendations to parents as homework rather than making screens central to our teaching.
+
+## Frequently asked questions
+
+**Do English cartoons really help my child's English?**
+
+They help when watched actively and followed up with conversation. They do very little when they run in the background.
+
+**How much screen time is too much for a 5-year-old?**
+
+Current paediatric guidance suggests no more than one hour a day of high-quality content for ages 2–5. For English learning specifically, 15–30 minutes of focused viewing is enough.
+
+**Which is better — apps or cartoons?**
+
+Both have a role. Cartoons build listening and natural English rhythm. Apps can drill phonics and reading. For most children, cartoons plus a parent are more powerful than apps alone.
+
+**Should I let my child watch English content without subtitles?**
+
+For ages under 7, English audio without subtitles is fine — they learn by listening. For older children who can read, English subtitles with English audio can speed up vocabulary growth.
+
+---
+
+Want guidance on mixing structured classes with smart home habits? [See our Little Learners programme](https://woodberryplace.com/courses/kids/) or get in touch about a trial class.
 
