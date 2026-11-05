@@ -84,15 +84,32 @@ Mix: local-intent, informational, comparison, seasonal, and service-page support
 | 59 | Using ChatGPT and AI to Improve Your English | chatgpt for english learning | Trending | Learners of all ages | 1500 |
 | 60 | Best YouTube Channels for Sri Lankan English Learners | youtube for english learning | Trending | Learners | 1300 |
 
-## Batch 4 (61–80) — planned
+## Batch 4 (61–80) — Local SEO, seasonal, writing, deeper grammar, age
 
-- Local SEO (Galle, Tangalle, Weligama, Hambantota, Colombo comparisons)
-- Seasonal/time-sensitive (O/L exam countdown, Scholarship countdown, IELTS before uni intake)
-- Writing (LinkedIn profile, cover letters, academic essays, blog writing in English)
-- More grammar (modal verbs, conditionals, if-clauses deep dive, gerunds vs infinitives)
-- Pronunciation (TH sound, short vowels, stress patterns)
-- Age (toddlers, teens, seniors)
-- Reading (how to choose books, reading speed)
+| # | Working title | Primary keyword | Intent | Audience | Target words |
+|---|---|---|---|---|---|
+| 61 | English Classes in Galle: Options for Parents and Adults | english classes in galle | Local commercial | Galle residents | 1400 |
+| 62 | English Classes in Weligama and Mirissa | english classes weligama mirissa | Local commercial | South coast residents | 1300 |
+| 63 | English Tuition in Hambantota: Local Options | english tuition hambantota | Local commercial | Hambantota residents | 1300 |
+| 64 | Best Place to Learn English in Southern Province | best english classes southern province | Local commercial | Southern Province | 1400 |
+| 65 | English Classes in Colombo vs Matara: The Real Difference | colombo vs matara english classes | Comparison | Parents | 1300 |
+| 66 | O/L English Countdown: The 4-Week Revision Plan | ol english revision plan | Seasonal/exam | O/L candidates | 1400 |
+| 67 | Grade 5 Scholarship Countdown: The Final Month | grade 5 scholarship final month | Seasonal/exam | Parents | 1400 |
+| 68 | IELTS in January: Peak-Season Prep Guide | ielts january peak season | Seasonal | IELTS candidates | 1300 |
+| 69 | LinkedIn Profile in English: What to Write | linkedin profile english sri lanka | Career/writing | Working professionals | 1500 |
+| 70 | Cover Letter in English: Templates for Sri Lankans | cover letter english sri lanka | Career/writing | Job seekers | 1500 |
+| 71 | Modal Verbs in English: Can, Could, Should, Would | english modal verbs | Grammar | O/L and intermediate | 1400 |
+| 72 | If Clauses (Conditionals): All Four Types | english conditionals if clauses | Grammar | O/L and IELTS | 1500 |
+| 73 | Gerunds vs Infinitives: -ing or to? | gerunds vs infinitives english | Grammar | Intermediate+ | 1300 |
+| 74 | The TH Sound: Why It's So Hard and How to Fix It | th sound english pronunciation | Pronunciation | All learners | 1200 |
+| 75 | English Stress Patterns: Where to Place the Emphasis | english word stress patterns | Pronunciation | Intermediate+ | 1300 |
+| 76 | How to Read a Novel in English (First-Timer's Guide) | reading a novel in english | Reading | Intermediate learners | 1400 |
+| 77 | Reading Speed: How to Read English Faster | how to read english faster | Reading | Students, exam candidates | 1300 |
+| 78 | English for Seniors: Starting at 60+ | english for seniors sri lanka | Age/adult | Older learners | 1300 |
+| 79 | English for Toddlers: What's Realistic Before Age 3 | english for toddlers | Age/parent | Parents of toddlers | 1300 |
+| 80 | Study in the UK from Sri Lanka: English Requirements | uk study english requirements | Study abroad | Prospective students | 1400 |
+
+## Batch 5 (81–100) — planned
 
 ## Batch 5 (81–100) — planned
 
