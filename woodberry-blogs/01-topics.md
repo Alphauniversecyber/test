@@ -109,9 +109,30 @@ Mix: local-intent, informational, comparison, seasonal, and service-page support
 | 79 | English for Toddlers: What's Realistic Before Age 3 | english for toddlers | Age/parent | Parents of toddlers | 1300 |
 | 80 | Study in the UK from Sri Lanka: English Requirements | uk study english requirements | Study abroad | Prospective students | 1400 |
 
-## Batch 5 (81–100) — planned
+## Batch 5 (81–100) — Niche careers, study abroad, mental health, edge cases, teacher path
 
-## Batch 5 (81–100) — planned
+| # | Working title | Primary keyword | Intent | Audience | Target words |
+|---|---|---|---|---|---|
+| 81 | Study in Australia from Sri Lanka: English Requirements | australia study english sri lanka | Study abroad | Prospective students | 1400 |
+| 82 | Study in Canada from Sri Lanka: English and CLB | canada study english sri lanka | Study abroad | Prospective students | 1400 |
+| 83 | Chevening, Fulbright, Erasmus: Scholarship English | scholarship english requirements | Study abroad | Scholarship candidates | 1300 |
+| 84 | Medical English for Sri Lankan Nurses and Doctors | medical english for nurses sri lanka | Niche career | Healthcare | 1400 |
+| 85 | Legal English for Sri Lankan Lawyers | legal english sri lanka | Niche career | Lawyers | 1300 |
+| 86 | Finance English: Banking, Accounting, Reporting | finance english sri lanka | Niche career | Finance professionals | 1400 |
+| 87 | IT English: Software Developers and Tech Writers | it english sri lanka | Niche career | Tech professionals | 1300 |
+| 88 | Managing Exam Anxiety: O/L and A/L Students | exam anxiety sri lanka | Mental health | Students | 1400 |
+| 89 | How to Stay Motivated Learning English | stay motivated english learning | Motivation | All learners | 1300 |
+| 90 | Imposter Syndrome in English: What to Do | imposter syndrome english | Mental health | Adult learners | 1200 |
+| 91 | Confusing Pairs: Affect vs Effect, Advice vs Advise | confusing english word pairs | Grammar | Intermediate+ | 1400 |
+| 92 | Punctuation for Sri Lankan Learners | english punctuation rules | Writing | All learners | 1300 |
+| 93 | Capitalisation in English: Rules and Examples | english capitalisation rules | Writing | All learners | 1200 |
+| 94 | A/L English Set Novel Guide: Structuring the Essay | al english set novel essay | Exam | A/L main English | 1400 |
+| 95 | O/L English Note-Making: The Fast-Mark Section | ol english note making | Exam | O/L students | 1300 |
+| 96 | English for Sri Lankan Cricket Fans | english cricket vocabulary sri lanka | Fun | Cricket fans | 1200 |
+| 97 | Learning English Through Song Lyrics | learn english through songs | Fun | All learners | 1300 |
+| 98 | How to Become an English Teacher in Sri Lanka | become english teacher sri lanka | Career | Prospective teachers | 1500 |
+| 99 | Becoming CELTA-Qualified in Sri Lanka | celta sri lanka | Career | Prospective teachers | 1400 |
+| 100 | The Complete Sri Lankan English Learner's Starter Pack | english starter pack sri lanka | Summary | All learners | 1500 |
 
 - Niche career English (medical English, legal English, finance English, IT English)
 - Study abroad: specific country prep (UK, Australia, Canada)
