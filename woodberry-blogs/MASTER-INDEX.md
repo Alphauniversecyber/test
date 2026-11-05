@@ -1,9 +1,9 @@
 # Woodberry Place English Academy — Master Blog Index
 
 **Last updated:** 2026-11-05
-**Total blogs:** 40
-**Total words:** ~55,000
-**Average per blog:** ~1,375 words
+**Total blogs:** 60
+**Total words:** ~82,560
+**Average per blog:** ~1,376 words
 
 All drafts are SEO-ready first drafts. Each has front matter (title, meta description, slug, primary + secondary keywords, target audience, word-count target). Review the business specifics in `00-context.md` and edit anywhere marked `[VERIFY]` before publishing.
 
@@ -74,6 +74,26 @@ All drafts are SEO-ready first drafts. Each has front matter (title, meta descri
 | 38 | blog-38-english-presentation-skills.md | How to Give a Presentation in English Without Panic | english presentation skills | 1400 |
 | 39 | blog-39-raising-bilingual-child-sri-lanka.md | Raising a Bilingual Child in Sri Lanka | raising bilingual child sri lanka | 1400 |
 | 40 | blog-40-screen-time-english-learning.md | Screen Time for English Learning: What's Helpful | screen time english learning kids | 1310 |
+| 41 | blog-41-ielts-reading-strategies.md | IELTS Reading Strategies for Sri Lankan Candidates | ielts reading strategies | 1490 |
+| 42 | blog-42-ielts-listening-tips.md | IELTS Listening: What Sri Lankan Candidates Miss | ielts listening tips sri lanka | 1400 |
+| 43 | blog-43-ielts-general-vs-academic.md | IELTS General Training vs Academic: Which Should You Take? | ielts general training vs academic | 1390 |
+| 44 | blog-44-ol-paper-1-vs-paper-2.md | O/L English Paper 1 vs Paper 2: What's in Each | ol english paper 1 vs paper 2 | 1400 |
+| 45 | blog-45-ol-english-comprehension.md | O/L English Comprehension: How to Read for Marks | ol english comprehension tips | 1390 |
+| 46 | blog-46-al-english-unseen-poetry.md | A/L English Literature: How to Read Unseen Poetry | al english literature unseen poetry | 1430 |
+| 47 | blog-47-english-for-teachers-sri-lanka.md | English for Teachers in Sri Lanka: Classroom Phrases | english for teachers sri lanka | 1420 |
+| 48 | blog-48-english-for-bank-staff.md | English for Bank Staff: Customer Phrases and Templates | english for bank staff | 1480 |
+| 49 | blog-49-english-for-call-centre.md | English for Call Centre Agents in Sri Lanka | english for call centre agents | 1470 |
+| 50 | blog-50-english-for-tuk-tuk-drivers.md | English for Tuk-Tuk Drivers Working with Tourists | english for tuk tuk drivers | 1200 |
+| 51 | blog-51-airport-english.md | Airport English: What to Say From Check-In to Boarding | airport english phrases | 1400 |
+| 52 | blog-52-hotel-check-in-english.md | Hotel Check-In English (Guests and Staff) | hotel check in english | 1300 |
+| 53 | blog-53-asking-directions-english.md | Asking for Directions in English: Phrases You'll Use | asking for directions english | 1200 |
+| 54 | blog-54-shopping-english-phrases.md | Shopping in English in Sri Lanka | shopping english phrases | 1240 |
+| 55 | blog-55-english-at-the-doctor.md | English at the Doctor: Vocabulary and Example Dialogues | english at the doctor | 1310 |
+| 56 | blog-56-teenage-english-learning.md | English for Teenagers: How to Keep a Teen Interested | teenage english learning | 1400 |
+| 57 | blog-57-british-vs-american-english.md | British vs American English: Which Should My Child Learn? | british vs american english | 1300 |
+| 58 | blog-58-group-vs-private-tuition.md | Group Class vs Private Tuition for English | group vs private english tuition | 1310 |
+| 59 | blog-59-chatgpt-for-english-learning.md | Using ChatGPT and AI to Improve Your English | chatgpt for english learning | 1490 |
+| 60 | blog-60-youtube-for-english-learning.md | Best YouTube Channels for Sri Lankan English Learners | youtube for english learning | 1300 |
 
 ## Internal link graph (built into drafts)
 
